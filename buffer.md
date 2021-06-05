@@ -1,5 +1,5 @@
 # Буфер обмена
- ```charp
+ ```csharp
  List<Span<int>> results = new();
 s = s.ToSpan();
 for(int a = 0; a < s.Length; a++) {
