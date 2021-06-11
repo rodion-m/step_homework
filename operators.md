@@ -25,6 +25,6 @@ return (some == another);
 А такой код должен вернуть false:
 ```cs
 var some = new Building("5А"); //<-- Одинаковые строения
-var another = new Building("9"); //<-- Одинаковые строения
-return (some == another);
+var other = new Building("9"); //<-- Одинаковые строения
+return (some == other);
 ```
