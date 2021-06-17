@@ -1,16 +1,20 @@
 # Буфер обмена
  ```cs
- List<Span<int>> results = new();
-s = s.ToSpan();
-for(int a = 0; a < s.Length; a++) {
-    var chr = s[a];
-    if(dict.Contains(chr)) {
-        var remains = s[a..s.Length-1];
-        if(dict.All(d => remains.Contains(d))) {
-            results.Add(remains);
+    public static class NewsParser
+    {
+        public static async Task<string> FindNews(string text)
+        {
+            var config = Configuration.Default.WithDefaultLoader();
+            var context = BrowsingContext.New(config);
+
+            var uri = $"https://dtf.ru/search/v2/content/new?query={text}";
+            var document = await context.OpenAsync(uri);
+            var selector = "div.content-title.content-title--short.l-island-a";
+            var elements = document.QuerySelectorAll(selector);
+            var arr = elements.Select(it => it.TextContent);
+            var result = string.Join("\n", arr);
+            
+            return result;
         }
     }
-}
-
-return results.OrderBy(it => it.Length).First();
  ```
