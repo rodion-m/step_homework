@@ -1,0 +1,4466 @@
+[
+  {
+    "Id": "b16d574b-0574-45f6-9f5a-e0f669f37937",
+    "RaceId": "1",
+    "MemberNumber": 24,
+    "EventType": 1,
+    "TimeStamp": "2021-10-16T12:00:57.609755+03:00",
+    "MemberName": "Таисия Мухина",
+    "Distance": 1000
+  },
+  {
+    "Id": "d550fd5f-a2f6-4c46-a8d8-f945ade1a3f3",
+    "RaceId": "1",
+    "MemberNumber": 41,
+    "EventType": 2,
+    "TimeStamp": "2021-10-16T12:13:27.493138+03:00",
+    "MemberName": "Ангелина Бурова",
+    "Distance": 2000
+  },
+  {
+    "Id": "642b7632-147b-4b87-b34f-2a9e0452b280",
+    "RaceId": "1",
+    "MemberNumber": 44,
+    "EventType": 2,
+    "TimeStamp": "2021-10-16T12:17:09.18058+03:00",
+    "MemberName": "Нина Анисимова",
+    "Distance": 2000
+  },
+  {
+    "Id": "d69db9b5-8208-43fe-be3d-120f5ccca9b5",
+    "RaceId": "1",
+    "MemberNumber": 44,
+    "EventType": 3,
+    "TimeStamp": "2021-10-16T12:17:10.18058+03:00",
+    "MemberName": "Нина Анисимова",
+    "Distance": 2000
+  },
+  {
+    "Id": "51a21e29-9010-4381-a866-8ca0ab0c3520",
+    "RaceId": "1",
+    "MemberNumber": 42,
+    "EventType": 2,
+    "TimeStamp": "2021-10-16T12:37:30.147074+03:00",
+    "MemberName": "Анатолий Ильин",
+    "Distance": 2000
+  },
+  {
+    "Id": "329d7aeb-95dd-4486-a42e-9bc947c58e6b",
+    "RaceId": "1",
+    "MemberNumber": 42,
+    "EventType": 3,
+    "TimeStamp": "2021-10-16T12:37:31.147074+03:00",
+    "MemberName": "Анатолий Ильин",
+    "Distance": 2000
+  },
+  {
+    "Id": "8c8a10e3-c090-4d8e-b416-30f07f87ce82",
+    "RaceId": "1",
+    "MemberNumber": 34,
+    "EventType": 1,
+    "TimeStamp": "2021-10-16T12:03:56.619046+03:00",
+    "MemberName": "Александра Фадеева",
+    "Distance": 2000
+  },
+  {
+    "Id": "9daa78bd-01fa-416a-a064-28338e6f0849",
+    "RaceId": "1",
+    "MemberNumber": 108,
+    "EventType": 1,
+    "TimeStamp": "2021-10-16T12:03:56.619046+03:00",
+    "MemberName": "Дмитрий Бирюков",
+    "Distance": 10000
+  },
+  {
+    "Id": "4b0b79fa-a2a2-4920-b4e0-42b8a3a5ea9a",
+    "RaceId": "1",
+    "MemberNumber": 73,
+    "EventType": 2,
+    "TimeStamp": "2021-10-16T12:36:24.04995+03:00",
+    "MemberName": "Леонид Белозеров",
+    "Distance": 5000
+  },
+  {
+    "Id": "79f52373-5581-44bd-a0cb-1872552d597d",
+    "RaceId": "1",
+    "MemberNumber": 14,
+    "EventType": 1,
+    "TimeStamp": "2021-10-16T12:03:56.619046+03:00",
+    "MemberName": "Александр Белозеров",
+    "Distance": 1000
+  },
+  {
+    "Id": "d4b15fb9-bb3a-40f3-bfc2-d32f8a580e05",
+    "RaceId": "1",
+    "MemberNumber": 106,
+    "EventType": 1,
+    "TimeStamp": "2021-10-16T12:03:56.619046+03:00",
+    "MemberName": "Сергей Селезнев",
+    "Distance": 10000
+  },
+  {
+    "Id": "b55ce7a4-3149-4797-a3b2-3bf6fa91650a",
+    "RaceId": "1",
+    "MemberNumber": 63,
+    "EventType": 2,
+    "TimeStamp": "2021-10-16T12:36:56.490039+03:00",
+    "MemberName": "Евгений Сидоров",
+    "Distance": 5000
+  },
+  {
+    "Id": "d0f2f3d7-1a97-4205-ad93-f806e59c9cd5",
+    "RaceId": "1",
+    "MemberNumber": 110,
+    "EventType": 1,
+    "TimeStamp": "2021-10-16T12:03:56.619046+03:00",
+    "MemberName": "Евгения Калинина",
+    "Distance": 10000
+  },
+  {
+    "Id": "411c9300-2847-468a-96c5-650c2743167a",
+    "RaceId": "1",
+    "MemberNumber": 63,
+    "EventType": 3,
+    "TimeStamp": "2021-10-16T12:36:56.545017+03:00",
+    "MemberName": "Евгений Сидоров",
+    "Distance": 5000
+  },
+  {
+    "Id": "a3fb69e5-8406-4183-bac6-b9f4e597f869",
+    "RaceId": "1",
+    "MemberNumber": 23,
+    "EventType": 2,
+    "TimeStamp": "2021-10-16T12:05:20.609739+03:00",
+    "MemberName": "Артём Григорьев",
+    "Distance": 1000
+  },
+  {
+    "Id": "432fb100-9c74-4bd1-aedf-8d25ef950086",
+    "RaceId": "1",
+    "MemberNumber": 79,
+    "EventType": 2,
+    "TimeStamp": "2021-10-16T12:34:29.053052+03:00",
+    "MemberName": "Николай Веселов",
+    "Distance": 5000
+  },
+  {
+    "Id": "766ac958-51f0-46cd-8786-d735b7cf3e6e",
+    "RaceId": "1",
+    "MemberNumber": 108,
+    "EventType": 3,
+    "TimeStamp": "2021-10-16T13:05:52.161333+03:00",
+    "MemberName": "Дмитрий Бирюков",
+    "Distance": 10000
+  },
+  {
+    "Id": "d889cbf4-acc7-48c2-8313-88dc3145e34d",
+    "RaceId": "1",
+    "MemberNumber": 101,
+    "EventType": 3,
+    "TimeStamp": "2021-10-16T13:06:20.445399+03:00",
+    "MemberName": "Максим Лапин",
+    "Distance": 10000
+  },
+  {
+    "Id": "f7e5286c-2305-4d2c-84a1-2e9ffb1c496a",
+    "RaceId": "1",
+    "MemberNumber": 79,
+    "EventType": 3,
+    "TimeStamp": "2021-10-16T12:34:30.053052+03:00",
+    "MemberName": "Николай Веселов",
+    "Distance": 5000
+  },
+  {
+    "Id": "e53a6f14-5984-458c-8b2f-eb52d2ae8213",
+    "RaceId": "1",
+    "MemberNumber": 69,
+    "EventType": 2,
+    "TimeStamp": "2021-10-16T12:38:46.678473+03:00",
+    "MemberName": "Иван Казаков",
+    "Distance": 5000
+  },
+  {
+    "Id": "c39583be-9cec-4930-bcd1-1141289b1668",
+    "RaceId": "1",
+    "MemberNumber": 43,
+    "EventType": 2,
+    "TimeStamp": "2021-10-16T12:09:55.424944+03:00",
+    "MemberName": "Евгений Кулагин",
+    "Distance": 2000
+  },
+  {
+    "Id": "1bf5b93a-58e4-4cfe-8b8e-fdf26a45a729",
+    "RaceId": "1",
+    "MemberNumber": 136,
+    "EventType": 2,
+    "TimeStamp": "2021-10-16T12:09:55.764377+03:00",
+    "MemberName": "Матвей Жуков",
+    "Distance": 1000
+  },
+  {
+    "Id": "abde43f3-8541-4d9e-a5b4-b34a74cbfc08",
+    "RaceId": "1",
+    "MemberNumber": 105,
+    "EventType": 2,
+    "TimeStamp": "2021-10-16T12:55:16.441895+03:00",
+    "MemberName": "Антонина Шашкова",
+    "Distance": 10000
+  },
+  {
+    "Id": "6143bab9-d8d8-444a-b6d1-953a739b43a6",
+    "RaceId": "1",
+    "MemberNumber": 69,
+    "EventType": 2,
+    "TimeStamp": "2021-10-16T12:48:13.945653+03:00",
+    "MemberName": "Иван Казаков",
+    "Distance": 5000
+  },
+  {
+    "Id": "d941ffa7-2389-439b-8bac-c4eadbe94d1e",
+    "RaceId": "1",
+    "MemberNumber": 116,
+    "EventType": 2,
+    "TimeStamp": "2021-10-16T12:55:33.493478+03:00",
+    "MemberName": "Валерий Зимин",
+    "Distance": 10000
+  },
+  {
+    "Id": "9f17b2f9-0086-46ad-9f79-b73399043096",
+    "RaceId": "1",
+    "MemberNumber": 112,
+    "EventType": 2,
+    "TimeStamp": "2021-10-16T12:55:38.901055+03:00",
+    "MemberName": "Ярослав Кононов",
+    "Distance": 10000
+  },
+  {
+    "Id": "2f75ec38-cfb7-47bd-827f-19ee68dd3268",
+    "RaceId": "1",
+    "MemberNumber": 115,
+    "EventType": 2,
+    "TimeStamp": "2021-10-16T12:56:15.539853+03:00",
+    "MemberName": "Вячеслав Мамонтов",
+    "Distance": 10000
+  },
+  {
+    "Id": "0b778f43-2172-481d-9951-5612cd3d68b3",
+    "RaceId": "1",
+    "MemberNumber": 109,
+    "EventType": 2,
+    "TimeStamp": "2021-10-16T12:59:01.379272+03:00",
+    "MemberName": "Ярослав Дьячков",
+    "Distance": 10000
+  },
+  {
+    "Id": "0480645d-c632-4b34-873e-d88fa5cdacc4",
+    "RaceId": "1",
+    "MemberNumber": 69,
+    "EventType": 3,
+    "TimeStamp": "2021-10-16T12:48:14.945653+03:00",
+    "MemberName": "Иван Казаков",
+    "Distance": 5000
+  },
+  {
+    "Id": "d78bf987-d383-4002-8c26-2305a1370d7b",
+    "RaceId": "1",
+    "MemberNumber": 110,
+    "EventType": 2,
+    "TimeStamp": "2021-10-16T12:59:28.67105+03:00",
+    "MemberName": "Евгения Калинина",
+    "Distance": 10000
+  },
+  {
+    "Id": "b9a29ecb-fcb1-4997-8b9a-1ec0b05da842",
+    "RaceId": "1",
+    "MemberNumber": 117,
+    "EventType": 2,
+    "TimeStamp": "2021-10-16T12:59:45.057796+03:00",
+    "MemberName": "Анфиса Веселова",
+    "Distance": 10000
+  },
+  {
+    "Id": "03861914-33ca-4ed1-9ac0-84f1b39730d9",
+    "RaceId": "1",
+    "MemberNumber": 68,
+    "EventType": 2,
+    "TimeStamp": "2021-10-16T12:42:41.695815+03:00",
+    "MemberName": "Анатолий Савельев",
+    "Distance": 5000
+  },
+  {
+    "Id": "e16b1561-f8ed-48ab-8523-a9174699701e",
+    "RaceId": "1",
+    "MemberNumber": 108,
+    "EventType": 2,
+    "TimeStamp": "2021-10-16T12:43:14.719144+03:00",
+    "MemberName": "Дмитрий Бирюков",
+    "Distance": 10000
+  },
+  {
+    "Id": "9eb3a7e5-36cd-4501-b38b-89aa6c753601",
+    "RaceId": "1",
+    "MemberNumber": 101,
+    "EventType": 2,
+    "TimeStamp": "2021-10-16T12:43:22.607714+03:00",
+    "MemberName": "Максим Лапин",
+    "Distance": 10000
+  },
+  {
+    "Id": "7873c15c-6290-4d36-9575-76a1a6b735bb",
+    "RaceId": "1",
+    "MemberNumber": 107,
+    "EventType": 2,
+    "TimeStamp": "2021-10-16T12:43:26.440502+03:00",
+    "MemberName": "Роман Кондратьев",
+    "Distance": 10000
+  },
+  {
+    "Id": "f61a5d43-a20e-4d67-a6be-95c94bccd78a",
+    "RaceId": "1",
+    "MemberNumber": 117,
+    "EventType": 2,
+    "TimeStamp": "2021-10-16T12:43:27.759743+03:00",
+    "MemberName": "Анфиса Веселова",
+    "Distance": 10000
+  },
+  {
+    "Id": "c67e436c-4f42-4fc4-9450-d12237443d65",
+    "RaceId": "1",
+    "MemberNumber": 111,
+    "EventType": 2,
+    "TimeStamp": "2021-10-16T12:43:28.439374+03:00",
+    "MemberName": "Игорь Кузьмин",
+    "Distance": 10000
+  },
+  {
+    "Id": "5f689d9c-830f-4387-a9be-9fa86daaff12",
+    "RaceId": "1",
+    "MemberNumber": 116,
+    "EventType": 2,
+    "TimeStamp": "2021-10-16T12:43:36.84152+03:00",
+    "MemberName": "Валерий Зимин",
+    "Distance": 10000
+  },
+  {
+    "Id": "c068cb6c-3074-47df-9b7e-bf87f98a0577",
+    "RaceId": "1",
+    "MemberNumber": 115,
+    "EventType": 2,
+    "TimeStamp": "2021-10-16T12:43:39.319291+03:00",
+    "MemberName": "Вячеслав Мамонтов",
+    "Distance": 10000
+  },
+  {
+    "Id": "c806d33c-2234-478d-9e4e-95bec92faff9",
+    "RaceId": "1",
+    "MemberNumber": 118,
+    "EventType": 2,
+    "TimeStamp": "2021-10-16T12:44:11.186639+03:00",
+    "MemberName": "Ульяна Ермакова",
+    "Distance": 10000
+  },
+  {
+    "Id": "c812354d-13d9-4138-975c-be8de9055c00",
+    "RaceId": "1",
+    "MemberNumber": 106,
+    "EventType": 2,
+    "TimeStamp": "2021-10-16T12:44:51.259302+03:00",
+    "MemberName": "Сергей Селезнев",
+    "Distance": 10000
+  },
+  {
+    "Id": "fbcc834d-a9eb-4023-9e4a-4c217d95eaef",
+    "RaceId": "1",
+    "MemberNumber": 105,
+    "EventType": 2,
+    "TimeStamp": "2021-10-16T12:45:02.559272+03:00",
+    "MemberName": "Антонина Шашкова",
+    "Distance": 10000
+  },
+  {
+    "Id": "0b8e22a4-8e82-49b0-8d97-c7e25f617564",
+    "RaceId": "1",
+    "MemberNumber": 104,
+    "EventType": 2,
+    "TimeStamp": "2021-10-16T12:45:28.851532+03:00",
+    "MemberName": "Григорий Молчанов",
+    "Distance": 10000
+  },
+  {
+    "Id": "1242fc38-81b0-46fa-a49c-215b4551a4dc",
+    "RaceId": "1",
+    "MemberNumber": 68,
+    "EventType": 2,
+    "TimeStamp": "2021-10-16T12:32:15.6743+03:00",
+    "MemberName": "Анатолий Савельев",
+    "Distance": 5000
+  },
+  {
+    "Id": "05198900-3612-4f3d-a02d-e3b3ed1c6568",
+    "RaceId": "1",
+    "MemberNumber": 114,
+    "EventType": 2,
+    "TimeStamp": "2021-10-16T12:45:34.294942+03:00",
+    "MemberName": "Илья Евдокимов",
+    "Distance": 10000
+  },
+  {
+    "Id": "e3b51dc0-91ad-49d6-b33c-9dbc6226eb66",
+    "RaceId": "1",
+    "MemberNumber": 73,
+    "EventType": 2,
+    "TimeStamp": "2021-10-16T12:46:11.022057+03:00",
+    "MemberName": "Леонид Белозеров",
+    "Distance": 5000
+  },
+  {
+    "Id": "63571a40-42f5-43e4-9a1d-7f39b520e4ae",
+    "RaceId": "1",
+    "MemberNumber": 73,
+    "EventType": 3,
+    "TimeStamp": "2021-10-16T12:46:11.074438+03:00",
+    "MemberName": "Леонид Белозеров",
+    "Distance": 5000
+  },
+  {
+    "Id": "300ef7d1-267d-48b6-b767-08ba1aadcb2e",
+    "RaceId": "1",
+    "MemberNumber": 110,
+    "EventType": 2,
+    "TimeStamp": "2021-10-16T12:46:24.774168+03:00",
+    "MemberName": "Евгения Калинина",
+    "Distance": 10000
+  },
+  {
+    "Id": "13da0047-1599-4307-a19c-d977367f2093",
+    "RaceId": "1",
+    "MemberNumber": 112,
+    "EventType": 2,
+    "TimeStamp": "2021-10-16T12:47:41.560222+03:00",
+    "MemberName": "Ярослав Кононов",
+    "Distance": 10000
+  },
+  {
+    "Id": "adda6284-c915-4b89-a2bb-fcd02e76a344",
+    "RaceId": "1",
+    "MemberNumber": 102,
+    "EventType": 2,
+    "TimeStamp": "2021-10-16T12:47:46.279861+03:00",
+    "MemberName": "Валерий Щербаков",
+    "Distance": 10000
+  },
+  {
+    "Id": "9d465aee-7189-4292-b5f2-77a448f2e269",
+    "RaceId": "1",
+    "MemberNumber": 108,
+    "EventType": 2,
+    "TimeStamp": "2021-10-16T12:47:51.719075+03:00",
+    "MemberName": "Дмитрий Бирюков",
+    "Distance": 10000
+  },
+  {
+    "Id": "e7a4416c-5538-4b07-a887-51f6a50b46ec",
+    "RaceId": "1",
+    "MemberNumber": 111,
+    "EventType": 2,
+    "TimeStamp": "2021-10-16T12:48:13.059161+03:00",
+    "MemberName": "Игорь Кузьмин",
+    "Distance": 10000
+  },
+  {
+    "Id": "49c44138-0fcd-4fcb-952f-d079953c216e",
+    "RaceId": "1",
+    "MemberNumber": 107,
+    "EventType": 2,
+    "TimeStamp": "2021-10-16T12:48:21.080014+03:00",
+    "MemberName": "Роман Кондратьев",
+    "Distance": 10000
+  },
+  {
+    "Id": "4f29c22d-5fd8-4e0e-8483-0f1c0fad167c",
+    "RaceId": "1",
+    "MemberNumber": 117,
+    "EventType": 2,
+    "TimeStamp": "2021-10-16T12:48:22.89918+03:00",
+    "MemberName": "Анфиса Веселова",
+    "Distance": 10000
+  },
+  {
+    "Id": "3a1b11ee-ad14-4581-a9ed-c0651a93170c",
+    "RaceId": "1",
+    "MemberNumber": 118,
+    "EventType": 2,
+    "TimeStamp": "2021-10-16T12:48:30.558726+03:00",
+    "MemberName": "Ульяна Ермакова",
+    "Distance": 10000
+  },
+  {
+    "Id": "981399a4-f7f7-449a-83b0-ae64d7b1fa8b",
+    "RaceId": "1",
+    "MemberNumber": 68,
+    "EventType": 2,
+    "TimeStamp": "2021-10-16T12:53:07.71733+03:00",
+    "MemberName": "Анатолий Савельев",
+    "Distance": 5000
+  },
+  {
+    "Id": "85504a84-215e-4b4b-8bcd-183d2af3af30",
+    "RaceId": "1",
+    "MemberNumber": 101,
+    "EventType": 2,
+    "TimeStamp": "2021-10-16T12:48:35.876494+03:00",
+    "MemberName": "Максим Лапин",
+    "Distance": 10000
+  },
+  {
+    "Id": "d6e72907-9f29-434f-a34d-6516c7cf49bb",
+    "RaceId": "1",
+    "MemberNumber": 106,
+    "EventType": 2,
+    "TimeStamp": "2021-10-16T12:49:10.658631+03:00",
+    "MemberName": "Сергей Селезнев",
+    "Distance": 10000
+  },
+  {
+    "Id": "e385c63a-37e1-498b-9a83-ad06b3b2d729",
+    "RaceId": "1",
+    "MemberNumber": 68,
+    "EventType": 3,
+    "TimeStamp": "2021-10-16T12:53:08.71733+03:00",
+    "MemberName": "Анатолий Савельев",
+    "Distance": 5000
+  },
+  {
+    "Id": "954b8dc2-9e81-4628-8f7f-46f41e17ef04",
+    "RaceId": "1",
+    "MemberNumber": 116,
+    "EventType": 2,
+    "TimeStamp": "2021-10-16T12:49:34.259228+03:00",
+    "MemberName": "Валерий Зимин",
+    "Distance": 10000
+  },
+  {
+    "Id": "634ce6d2-8817-4bdf-9d9b-4df176b01a70",
+    "RaceId": "1",
+    "MemberNumber": 115,
+    "EventType": 2,
+    "TimeStamp": "2021-10-16T12:49:52.709088+03:00",
+    "MemberName": "Вячеслав Мамонтов",
+    "Distance": 10000
+  },
+  {
+    "Id": "936e2948-3499-44ad-a117-d107cd13a71d",
+    "RaceId": "1",
+    "MemberNumber": 114,
+    "EventType": 2,
+    "TimeStamp": "2021-10-16T12:49:57.959575+03:00",
+    "MemberName": "Илья Евдокимов",
+    "Distance": 10000
+  },
+  {
+    "Id": "96beaa2f-ad7f-444c-9709-733885464bb3",
+    "RaceId": "1",
+    "MemberNumber": 71,
+    "EventType": 2,
+    "TimeStamp": "2021-10-16T13:04:49.827486+03:00",
+    "MemberName": "Анна Петрова",
+    "Distance": 5000
+  },
+  {
+    "Id": "f4d021ff-c6c7-48cc-82c0-0b3d11c377d9",
+    "RaceId": "1",
+    "MemberNumber": 105,
+    "EventType": 2,
+    "TimeStamp": "2021-10-16T12:50:15.992218+03:00",
+    "MemberName": "Антонина Шашкова",
+    "Distance": 10000
+  },
+  {
+    "Id": "7e5a3f7b-2376-46fe-8fc6-910d0a7d1030",
+    "RaceId": "1",
+    "MemberNumber": 71,
+    "EventType": 2,
+    "TimeStamp": "2021-10-16T12:52:39.185798+03:00",
+    "MemberName": "Анна Петрова",
+    "Distance": 5000
+  },
+  {
+    "Id": "2687688f-3f41-4de2-b2b4-5b57a835c7ab",
+    "RaceId": "1",
+    "MemberNumber": 110,
+    "EventType": 2,
+    "TimeStamp": "2021-10-16T12:52:51.712958+03:00",
+    "MemberName": "Евгения Калинина",
+    "Distance": 10000
+  },
+  {
+    "Id": "1f2d13f3-51b5-4e48-bf98-c456d45caaa0",
+    "RaceId": "1",
+    "MemberNumber": 117,
+    "EventType": 2,
+    "TimeStamp": "2021-10-16T12:53:13.828535+03:00",
+    "MemberName": "Анфиса Веселова",
+    "Distance": 10000
+  },
+  {
+    "Id": "d6768792-6547-44e4-b307-4ad37d6c2ad8",
+    "RaceId": "1",
+    "MemberNumber": 109,
+    "EventType": 2,
+    "TimeStamp": "2021-10-16T12:53:24.781382+03:00",
+    "MemberName": "Ярослав Дьячков",
+    "Distance": 10000
+  },
+  {
+    "Id": "21ff5cd2-e04f-44f7-b433-60b108da5dfd",
+    "RaceId": "1",
+    "MemberNumber": 108,
+    "EventType": 2,
+    "TimeStamp": "2021-10-16T12:53:28.252876+03:00",
+    "MemberName": "Дмитрий Бирюков",
+    "Distance": 10000
+  },
+  {
+    "Id": "66bba393-2a0c-4869-8dab-b6334102fb72",
+    "RaceId": "1",
+    "MemberNumber": 71,
+    "EventType": 2,
+    "TimeStamp": "2021-10-16T12:40:28.54411+03:00",
+    "MemberName": "Анна Петрова",
+    "Distance": 5000
+  },
+  {
+    "Id": "88b115de-2961-489d-8d96-005091daed85",
+    "RaceId": "1",
+    "MemberNumber": 101,
+    "EventType": 2,
+    "TimeStamp": "2021-10-16T12:53:50.880129+03:00",
+    "MemberName": "Максим Лапин",
+    "Distance": 10000
+  },
+  {
+    "Id": "58e7393b-92d2-4fd5-8392-c0a95584151f",
+    "RaceId": "1",
+    "MemberNumber": 71,
+    "EventType": 3,
+    "TimeStamp": "2021-10-16T13:04:50.827486+03:00",
+    "MemberName": "Анна Петрова",
+    "Distance": 5000
+  },
+  {
+    "Id": "81246470-8623-45ef-8e5b-993e181d07a8",
+    "RaceId": "1",
+    "MemberNumber": 61,
+    "EventType": 1,
+    "TimeStamp": "2021-10-16T12:00:57.609755+03:00",
+    "MemberName": "Лаврентий Белов",
+    "Distance": 5000
+  },
+  {
+    "Id": "e404d0f1-1c07-4507-a645-c3caba767897",
+    "RaceId": "1",
+    "MemberNumber": 68,
+    "EventType": 1,
+    "TimeStamp": "2021-10-16T12:00:57.609755+03:00",
+    "MemberName": "Анатолий Савельев",
+    "Distance": 5000
+  },
+  {
+    "Id": "56ae848d-bd45-4579-82ae-bb9c4d7d2001",
+    "RaceId": "1",
+    "MemberNumber": 69,
+    "EventType": 1,
+    "TimeStamp": "2021-10-16T12:00:57.609755+03:00",
+    "MemberName": "Иван Казаков",
+    "Distance": 5000
+  },
+  {
+    "Id": "92eb79c9-b5c7-4038-b5ee-750605a3638a",
+    "RaceId": "1",
+    "MemberNumber": 64,
+    "EventType": 1,
+    "TimeStamp": "2021-10-16T12:03:56.619046+03:00",
+    "MemberName": "Геннадий Крылов",
+    "Distance": 5000
+  },
+  {
+    "Id": "5f0066d7-eb66-4b1e-ac7b-472f32e5b665",
+    "RaceId": "1",
+    "MemberNumber": 63,
+    "EventType": 1,
+    "TimeStamp": "2021-10-16T12:03:56.619046+03:00",
+    "MemberName": "Евгений Сидоров",
+    "Distance": 5000
+  },
+  {
+    "Id": "92d76eb2-dd15-421c-833b-78c406f5fb71",
+    "RaceId": "1",
+    "MemberNumber": 62,
+    "EventType": 1,
+    "TimeStamp": "2021-10-16T12:03:56.619046+03:00",
+    "MemberName": "Екатерина Королева",
+    "Distance": 5000
+  },
+  {
+    "Id": "199be98a-37e2-4638-879b-2bf30e6badda",
+    "RaceId": "1",
+    "MemberNumber": 67,
+    "EventType": 1,
+    "TimeStamp": "2021-10-16T12:03:56.619046+03:00",
+    "MemberName": "Анфиса Орехова",
+    "Distance": 5000
+  },
+  {
+    "Id": "e5c718c6-9b93-410b-8a1b-2db8c0ce97be",
+    "RaceId": "1",
+    "MemberNumber": 77,
+    "EventType": 1,
+    "TimeStamp": "2021-10-16T12:03:56.619046+03:00",
+    "MemberName": "Антонида Шашкова",
+    "Distance": 5000
+  },
+  {
+    "Id": "4d0298ff-612d-4867-a290-1fb297d97291",
+    "RaceId": "1",
+    "MemberNumber": 78,
+    "EventType": 1,
+    "TimeStamp": "2021-10-16T12:03:56.619046+03:00",
+    "MemberName": "Лаврентий Красильников",
+    "Distance": 5000
+  },
+  {
+    "Id": "dbbcdf3b-f06f-4312-b687-059fbbf9de7a",
+    "RaceId": "1",
+    "MemberNumber": 79,
+    "EventType": 1,
+    "TimeStamp": "2021-10-16T12:03:56.619046+03:00",
+    "MemberName": "Николай Веселов",
+    "Distance": 5000
+  },
+  {
+    "Id": "a791d2dc-d1ff-4911-ab5b-4f04fbcbce9c",
+    "RaceId": "1",
+    "MemberNumber": 70,
+    "EventType": 1,
+    "TimeStamp": "2021-10-16T12:03:56.619046+03:00",
+    "MemberName": "Дмитрий Авдеев",
+    "Distance": 5000
+  },
+  {
+    "Id": "472b4913-b423-4f68-91fc-ab2b0e4fe983",
+    "RaceId": "1",
+    "MemberNumber": 76,
+    "EventType": 1,
+    "TimeStamp": "2021-10-16T12:03:56.619046+03:00",
+    "MemberName": "Жанна Кулакова",
+    "Distance": 5000
+  },
+  {
+    "Id": "576997c4-6030-466b-869a-360813d64f45",
+    "RaceId": "1",
+    "MemberNumber": 75,
+    "EventType": 1,
+    "TimeStamp": "2021-10-16T12:03:56.619046+03:00",
+    "MemberName": "Василий Пестов",
+    "Distance": 5000
+  },
+  {
+    "Id": "1b699bed-ed49-4bba-842c-5e253f038a4f",
+    "RaceId": "1",
+    "MemberNumber": 74,
+    "EventType": 1,
+    "TimeStamp": "2021-10-16T12:03:56.619046+03:00",
+    "MemberName": "Илья Осипов",
+    "Distance": 5000
+  },
+  {
+    "Id": "a49486ee-7eae-4ae7-8db4-8c79e1e2b769",
+    "RaceId": "1",
+    "MemberNumber": 73,
+    "EventType": 1,
+    "TimeStamp": "2021-10-16T12:03:56.619046+03:00",
+    "MemberName": "Леонид Белозеров",
+    "Distance": 5000
+  },
+  {
+    "Id": "10935401-dfca-4dfb-9522-4c0fce6801cd",
+    "RaceId": "1",
+    "MemberNumber": 72,
+    "EventType": 1,
+    "TimeStamp": "2021-10-16T12:03:56.619046+03:00",
+    "MemberName": "Николай Блинов",
+    "Distance": 5000
+  },
+  {
+    "Id": "50af812a-c72c-43a4-b037-283da1eeb5c5",
+    "RaceId": "1",
+    "MemberNumber": 71,
+    "EventType": 1,
+    "TimeStamp": "2021-10-16T12:03:56.619046+03:00",
+    "MemberName": "Анна Петрова",
+    "Distance": 5000
+  },
+  {
+    "Id": "09bbf25a-b69a-4405-a354-6afc71f9b2ae",
+    "RaceId": "1",
+    "MemberNumber": 66,
+    "EventType": 1,
+    "TimeStamp": "2021-10-16T12:03:56.619046+03:00",
+    "MemberName": "Ирина Аксенова",
+    "Distance": 5000
+  },
+  {
+    "Id": "657abd2f-6a8d-48e2-b585-998993871050",
+    "RaceId": "1",
+    "MemberNumber": 65,
+    "EventType": 1,
+    "TimeStamp": "2021-10-16T12:03:56.619046+03:00",
+    "MemberName": "Кира Казакова",
+    "Distance": 5000
+  },
+  {
+    "Id": "05c704a0-c5bf-4ee9-bfaa-c6839edaeb96",
+    "RaceId": "1",
+    "MemberNumber": 118,
+    "EventType": 3,
+    "TimeStamp": "2021-10-16T12:53:28.663134+03:00",
+    "MemberName": "Ульяна Ермакова",
+    "Distance": 10000
+  },
+  {
+    "Id": "58a8733f-2591-4b4e-9c01-094c81f301cf",
+    "RaceId": "1",
+    "MemberNumber": 106,
+    "EventType": 3,
+    "TimeStamp": "2021-10-16T12:54:13.218584+03:00",
+    "MemberName": "Сергей Селезнев",
+    "Distance": 10000
+  },
+  {
+    "Id": "66e070b0-313e-4d0b-b773-d7f5096a4497",
+    "RaceId": "1",
+    "MemberNumber": 114,
+    "EventType": 3,
+    "TimeStamp": "2021-10-16T12:55:05.775189+03:00",
+    "MemberName": "Илья Евдокимов",
+    "Distance": 10000
+  },
+  {
+    "Id": "f75724e3-74e6-4abd-a3e3-748c34ae1bd0",
+    "RaceId": "1",
+    "MemberNumber": 111,
+    "EventType": 3,
+    "TimeStamp": "2021-10-16T13:04:20.045007+03:00",
+    "MemberName": "Игорь Кузьмин",
+    "Distance": 10000
+  },
+  {
+    "Id": "2256d738-72d5-4693-8afc-f3a692ef9966",
+    "RaceId": "1",
+    "MemberNumber": 105,
+    "EventType": 3,
+    "TimeStamp": "2021-10-16T13:08:07.397607+03:00",
+    "MemberName": "Антонина Шашкова",
+    "Distance": 10000
+  },
+  {
+    "Id": "c613617e-4e10-4676-87f6-e4e07cad13a8",
+    "RaceId": "1",
+    "MemberNumber": 109,
+    "EventType": 3,
+    "TimeStamp": "2021-10-16T13:12:48.569328+03:00",
+    "MemberName": "Ярослав Дьячков",
+    "Distance": 10000
+  },
+  {
+    "Id": "656581c6-18cd-44b8-b35f-19731adb418e",
+    "RaceId": "1",
+    "MemberNumber": 104,
+    "EventType": 2,
+    "TimeStamp": "2021-10-16T12:50:05.766252+03:00",
+    "MemberName": "Григорий Молчанов",
+    "Distance": 10000
+  },
+  {
+    "Id": "f7b906e8-0ed0-4d10-b01c-e7c1c148ac7f",
+    "RaceId": "1",
+    "MemberNumber": 104,
+    "EventType": 3,
+    "TimeStamp": "2021-10-16T12:50:06.766252+03:00",
+    "MemberName": "Григорий Молчанов",
+    "Distance": 10000
+  },
+  {
+    "Id": "bd91c313-4d70-4f98-aba9-22d6a75b5064",
+    "RaceId": "1",
+    "MemberNumber": 107,
+    "EventType": 3,
+    "TimeStamp": "2021-10-16T12:54:31.563+03:00",
+    "MemberName": "Роман Кондратьев",
+    "Distance": 10000
+  },
+  {
+    "Id": "a1b76996-9f00-446d-b3f0-1a4f508cc966",
+    "RaceId": "1",
+    "MemberNumber": 117,
+    "EventType": 3,
+    "TimeStamp": "2021-10-16T13:12:58.106+03:00",
+    "MemberName": "Анфиса Веселова",
+    "Distance": 10000
+  },
+  {
+    "Id": "3cda2ab9-6061-4616-88c2-d6f014e22310",
+    "RaceId": "1",
+    "MemberNumber": 41,
+    "EventType": 3,
+    "TimeStamp": "2021-10-16T12:13:28.493138+03:00",
+    "MemberName": "Ангелина Бурова",
+    "Distance": 2000
+  },
+  {
+    "Id": "87acb188-bf21-4d61-b818-bab8b23fc58b",
+    "RaceId": "1",
+    "MemberNumber": 118,
+    "EventType": 2,
+    "TimeStamp": "2021-10-16T12:53:27.663134+03:00",
+    "MemberName": "Ульяна Ермакова",
+    "Distance": 10000
+  },
+  {
+    "Id": "58a25fa0-7aff-4b39-a48c-1f5a8baa2fa0",
+    "RaceId": "1",
+    "MemberNumber": 106,
+    "EventType": 2,
+    "TimeStamp": "2021-10-16T12:54:12.218584+03:00",
+    "MemberName": "Сергей Селезнев",
+    "Distance": 10000
+  },
+  {
+    "Id": "a9a57a2c-65f2-4783-88e0-f7d2b445eca7",
+    "RaceId": "1",
+    "MemberNumber": 114,
+    "EventType": 2,
+    "TimeStamp": "2021-10-16T12:55:04.775189+03:00",
+    "MemberName": "Илья Евдокимов",
+    "Distance": 10000
+  },
+  {
+    "Id": "20f76182-7bdd-4ec2-bcbe-80a4a2ed0874",
+    "RaceId": "1",
+    "MemberNumber": 102,
+    "EventType": 2,
+    "TimeStamp": "2021-10-16T12:58:12.429198+03:00",
+    "MemberName": "Валерий Щербаков",
+    "Distance": 10000
+  },
+  {
+    "Id": "0d70666b-65d0-4bb0-9d64-78189934076b",
+    "RaceId": "1",
+    "MemberNumber": 102,
+    "EventType": 2,
+    "TimeStamp": "2021-10-16T13:04:14.185882+03:00",
+    "MemberName": "Валерий Щербаков",
+    "Distance": 10000
+  },
+  {
+    "Id": "38b6307a-1b62-40b3-a234-65d0b406b833",
+    "RaceId": "1",
+    "MemberNumber": 111,
+    "EventType": 2,
+    "TimeStamp": "2021-10-16T13:04:19.045007+03:00",
+    "MemberName": "Игорь Кузьмин",
+    "Distance": 10000
+  },
+  {
+    "Id": "763ff81e-f0ae-46e6-bd9d-d592fe254d66",
+    "RaceId": "1",
+    "MemberNumber": 111,
+    "EventType": 2,
+    "TimeStamp": "2021-10-16T12:58:16.802411+03:00",
+    "MemberName": "Игорь Кузьмин",
+    "Distance": 10000
+  },
+  {
+    "Id": "57ea2021-398e-47b4-bed3-fed6d4a57abf",
+    "RaceId": "1",
+    "MemberNumber": 108,
+    "EventType": 2,
+    "TimeStamp": "2021-10-16T13:05:51.161333+03:00",
+    "MemberName": "Дмитрий Бирюков",
+    "Distance": 10000
+  },
+  {
+    "Id": "1eae3147-1842-4869-894b-149941f708ed",
+    "RaceId": "1",
+    "MemberNumber": 108,
+    "EventType": 2,
+    "TimeStamp": "2021-10-16T12:59:39.707104+03:00",
+    "MemberName": "Дмитрий Бирюков",
+    "Distance": 10000
+  },
+  {
+    "Id": "ce7be407-2cf8-496d-8400-9cbcd51ec3e4",
+    "RaceId": "1",
+    "MemberNumber": 101,
+    "EventType": 2,
+    "TimeStamp": "2021-10-16T13:06:19.445399+03:00",
+    "MemberName": "Максим Лапин",
+    "Distance": 10000
+  },
+  {
+    "Id": "189aca75-89bc-40d8-9eac-d79bffc0294d",
+    "RaceId": "1",
+    "MemberNumber": 101,
+    "EventType": 2,
+    "TimeStamp": "2021-10-16T13:00:05.162764+03:00",
+    "MemberName": "Максим Лапин",
+    "Distance": 10000
+  },
+  {
+    "Id": "8b7b9666-d60a-44e6-851f-13a545d4be92",
+    "RaceId": "1",
+    "MemberNumber": 105,
+    "EventType": 2,
+    "TimeStamp": "2021-10-16T13:08:06.397607+03:00",
+    "MemberName": "Антонина Шашкова",
+    "Distance": 10000
+  },
+  {
+    "Id": "1cfce273-0b9e-4ec7-9e84-c081f2ed15fa",
+    "RaceId": "1",
+    "MemberNumber": 105,
+    "EventType": 2,
+    "TimeStamp": "2021-10-16T13:01:41.419751+03:00",
+    "MemberName": "Антонина Шашкова",
+    "Distance": 10000
+  },
+  {
+    "Id": "8f79169c-0564-4055-8458-5a0f5020e14d",
+    "RaceId": "1",
+    "MemberNumber": 109,
+    "EventType": 2,
+    "TimeStamp": "2021-10-16T13:12:47.569328+03:00",
+    "MemberName": "Ярослав Дьячков",
+    "Distance": 10000
+  },
+  {
+    "Id": "3eb6805b-d22a-417e-a633-4cd1d2627de5",
+    "RaceId": "1",
+    "MemberNumber": 109,
+    "EventType": 2,
+    "TimeStamp": "2021-10-16T13:05:54.4743+03:00",
+    "MemberName": "Ярослав Дьячков",
+    "Distance": 10000
+  },
+  {
+    "Id": "0c76f0b6-f3db-41d9-8f67-4fc843a9f270",
+    "RaceId": "1",
+    "MemberNumber": 112,
+    "EventType": 2,
+    "TimeStamp": "2021-10-16T13:18:12.419777+03:00",
+    "MemberName": "Ярослав Кононов",
+    "Distance": 10000
+  },
+  {
+    "Id": "48cc1ca6-9edf-48a1-b2c1-4489f70cb3aa",
+    "RaceId": "1",
+    "MemberNumber": 112,
+    "EventType": 2,
+    "TimeStamp": "2021-10-16T13:10:46.839704+03:00",
+    "MemberName": "Ярослав Кононов",
+    "Distance": 10000
+  },
+  {
+    "Id": "c6c11467-bb0c-42ad-8f19-a6900c042a73",
+    "RaceId": "1",
+    "MemberNumber": 117,
+    "EventType": 2,
+    "TimeStamp": "2021-10-16T13:12:57.106+03:00",
+    "MemberName": "Анфиса Веселова",
+    "Distance": 10000
+  },
+  {
+    "Id": "fa8f8553-859f-4fb8-adef-45a9d2a5cfbb",
+    "RaceId": "1",
+    "MemberNumber": 136,
+    "EventType": 3,
+    "TimeStamp": "2021-10-16T12:09:55.815341+03:00",
+    "MemberName": "Матвей Жуков",
+    "Distance": 1000
+  },
+  {
+    "Id": "dc8fe554-6014-476f-953b-1889e96cbd2d",
+    "RaceId": "1",
+    "MemberNumber": 32,
+    "EventType": 2,
+    "TimeStamp": "2021-10-16T12:10:04.403532+03:00",
+    "MemberName": "Юрий Шестаков",
+    "Distance": 2000
+  },
+  {
+    "Id": "eb154aeb-5124-44c4-995f-e43d5cacbe6d",
+    "RaceId": "1",
+    "MemberNumber": 116,
+    "EventType": 2,
+    "TimeStamp": "2021-10-16T13:01:32.075293+03:00",
+    "MemberName": "Валерий Зимин",
+    "Distance": 10000
+  },
+  {
+    "Id": "1636234b-72e8-4afb-8cf3-f3324410b5d7",
+    "RaceId": "1",
+    "MemberNumber": 116,
+    "EventType": 3,
+    "TimeStamp": "2021-10-16T13:01:32.141411+03:00",
+    "MemberName": "Валерий Зимин",
+    "Distance": 10000
+  },
+  {
+    "Id": "db050468-e4c5-4aac-9038-b6a9f3f26fd7",
+    "RaceId": "1",
+    "MemberNumber": 46,
+    "EventType": 2,
+    "TimeStamp": "2021-10-16T12:10:26.584041+03:00",
+    "MemberName": "Денис Фомичев",
+    "Distance": 2000
+  },
+  {
+    "Id": "c6f9d4b9-77f9-4177-ad2e-5028b5f960f7",
+    "RaceId": "1",
+    "MemberNumber": 28,
+    "EventType": 2,
+    "TimeStamp": "2021-10-16T12:10:28.26462+03:00",
+    "MemberName": "Жанна Комиссарова",
+    "Distance": 1000
+  },
+  {
+    "Id": "ea16ec44-d36d-4c0a-b720-d5d727bf73a0",
+    "RaceId": "1",
+    "MemberNumber": 28,
+    "EventType": 3,
+    "TimeStamp": "2021-10-16T12:10:28.321367+03:00",
+    "MemberName": "Жанна Комиссарова",
+    "Distance": 1000
+  },
+  {
+    "Id": "6501ff95-597e-40ff-bc5c-09f94a2b6a78",
+    "RaceId": "1",
+    "MemberNumber": 115,
+    "EventType": 2,
+    "TimeStamp": "2021-10-16T13:03:16.758566+03:00",
+    "MemberName": "Вячеслав Мамонтов",
+    "Distance": 10000
+  },
+  {
+    "Id": "c7389d1c-ea97-44d3-8db7-f2672d7037f3",
+    "RaceId": "1",
+    "MemberNumber": 34,
+    "EventType": 2,
+    "TimeStamp": "2021-10-16T12:10:30.322206+03:00",
+    "MemberName": "Александра Фадеева",
+    "Distance": 2000
+  },
+  {
+    "Id": "f88fe3fb-074a-468b-8e7d-844210686385",
+    "RaceId": "1",
+    "MemberNumber": 115,
+    "EventType": 3,
+    "TimeStamp": "2021-10-16T13:03:16.810523+03:00",
+    "MemberName": "Вячеслав Мамонтов",
+    "Distance": 10000
+  },
+  {
+    "Id": "e0dd8f8f-9f0c-4133-8581-8f20ab412f4f",
+    "RaceId": "1",
+    "MemberNumber": 44,
+    "EventType": 2,
+    "TimeStamp": "2021-10-16T12:10:32.899813+03:00",
+    "MemberName": "Нина Анисимова",
+    "Distance": 2000
+  },
+  {
+    "Id": "e460410d-43d6-40ec-81e4-e4872f17bb8f",
+    "RaceId": "1",
+    "MemberNumber": 47,
+    "EventType": 2,
+    "TimeStamp": "2021-10-16T12:11:22.257484+03:00",
+    "MemberName": "Дарья Елисеева",
+    "Distance": 2000
+  },
+  {
+    "Id": "2a32fd1e-c88e-4780-9bfb-3a8bda39c05e",
+    "RaceId": "1",
+    "MemberNumber": 47,
+    "EventType": 3,
+    "TimeStamp": "2021-10-16T12:11:22.309533+03:00",
+    "MemberName": "Дарья Елисеева",
+    "Distance": 2000
+  },
+  {
+    "Id": "95b4487b-8986-450f-be7e-ef2eca1da9bb",
+    "RaceId": "1",
+    "MemberNumber": 8,
+    "EventType": 2,
+    "TimeStamp": "2021-10-16T12:11:24.79009+03:00",
+    "MemberName": "Жанна Турова",
+    "Distance": 1000
+  },
+  {
+    "Id": "7ab2c943-c782-4a71-9df0-fc12be843d96",
+    "RaceId": "1",
+    "MemberNumber": 8,
+    "EventType": 3,
+    "TimeStamp": "2021-10-16T12:11:24.844181+03:00",
+    "MemberName": "Жанна Турова",
+    "Distance": 1000
+  },
+  {
+    "Id": "a9c8f549-b0da-4acc-97da-bda14ced717c",
+    "RaceId": "1",
+    "MemberNumber": 104,
+    "EventType": 2,
+    "TimeStamp": "2021-10-16T12:12:09.406072+03:00",
+    "MemberName": "Григорий Молчанов",
+    "Distance": 10000
+  },
+  {
+    "Id": "e792398d-425f-482d-8804-b107706b876a",
+    "RaceId": "1",
+    "MemberNumber": 118,
+    "EventType": 2,
+    "TimeStamp": "2021-10-16T12:12:44.284294+03:00",
+    "MemberName": "Ульяна Ермакова",
+    "Distance": 10000
+  },
+  {
+    "Id": "3e2727be-59d7-4672-909b-a0ac6907fab1",
+    "RaceId": "1",
+    "MemberNumber": 38,
+    "EventType": 2,
+    "TimeStamp": "2021-10-16T12:12:53.711816+03:00",
+    "MemberName": "Ульяна Ковалева",
+    "Distance": 2000
+  },
+  {
+    "Id": "8de278b1-733f-41b4-be68-2acd0859f5cc",
+    "RaceId": "1",
+    "MemberNumber": 38,
+    "EventType": 3,
+    "TimeStamp": "2021-10-16T12:12:53.762753+03:00",
+    "MemberName": "Ульяна Ковалева",
+    "Distance": 2000
+  },
+  {
+    "Id": "ab858cb2-607b-4891-92bb-371b4b3b1692",
+    "RaceId": "1",
+    "MemberNumber": 107,
+    "EventType": 2,
+    "TimeStamp": "2021-10-16T12:54:31.513+03:00",
+    "MemberName": "Роман Кондратьев",
+    "Distance": 10000
+  },
+  {
+    "Id": "3878c4fb-2942-4c5f-b525-5317c36161e4",
+    "RaceId": "1",
+    "MemberNumber": 80,
+    "EventType": 2,
+    "TimeStamp": "2021-10-16T12:28:47.518+03:00",
+    "MemberName": "Татьяна Суворова",
+    "Distance": 5000
+  },
+  {
+    "Id": "cd1c514b-126f-4707-b201-0052d5106cfe",
+    "RaceId": "1",
+    "MemberNumber": 80,
+    "EventType": 3,
+    "TimeStamp": "2021-10-16T12:28:47.572+03:00",
+    "MemberName": "Татьяна Суворова",
+    "Distance": 5000
+  },
+  {
+    "Id": "a364b8c2-d78a-4b1e-a96a-c74b87cd3493",
+    "RaceId": "1",
+    "MemberNumber": 26,
+    "EventType": 1,
+    "TimeStamp": "2021-10-16T12:00:57.609755+03:00",
+    "MemberName": "Василий Фомичев",
+    "Distance": 1000
+  },
+  {
+    "Id": "dea0fef8-ab13-40a4-a9a7-a15c1c096832",
+    "RaceId": "1",
+    "MemberNumber": 27,
+    "EventType": 1,
+    "TimeStamp": "2021-10-16T12:00:57.609755+03:00",
+    "MemberName": "Ксения Котова",
+    "Distance": 1000
+  },
+  {
+    "Id": "d79fd8a4-7515-49ae-bc02-af3b6034cba3",
+    "RaceId": "1",
+    "MemberNumber": 29,
+    "EventType": 1,
+    "TimeStamp": "2021-10-16T12:00:57.609755+03:00",
+    "MemberName": "Зоя Трофимова",
+    "Distance": 1000
+  },
+  {
+    "Id": "b75cc0e5-37b4-4176-a97c-1c970643f00b",
+    "RaceId": "1",
+    "MemberNumber": 30,
+    "EventType": 1,
+    "TimeStamp": "2021-10-16T12:00:57.609755+03:00",
+    "MemberName": "Ксения Шашкова",
+    "Distance": 1000
+  },
+  {
+    "Id": "6571e409-57ef-471c-872f-e0be2c10de62",
+    "RaceId": "1",
+    "MemberNumber": 132,
+    "EventType": 1,
+    "TimeStamp": "2021-10-16T12:00:57.609755+03:00",
+    "MemberName": "Екатерина Хохлова",
+    "Distance": 1000
+  },
+  {
+    "Id": "da1e2d89-aae0-4425-a23f-2cb739c60475",
+    "RaceId": "1",
+    "MemberNumber": 133,
+    "EventType": 1,
+    "TimeStamp": "2021-10-16T12:00:57.609755+03:00",
+    "MemberName": "Геннадий Панов",
+    "Distance": 1000
+  },
+  {
+    "Id": "dd85bf57-0802-4e63-a283-181ae9ee4e84",
+    "RaceId": "1",
+    "MemberNumber": 134,
+    "EventType": 1,
+    "TimeStamp": "2021-10-16T12:00:57.609755+03:00",
+    "MemberName": "Лидия Щукина",
+    "Distance": 1000
+  },
+  {
+    "Id": "9d27fdf9-dd12-47a9-aa11-d32e40312fde",
+    "RaceId": "1",
+    "MemberNumber": 135,
+    "EventType": 1,
+    "TimeStamp": "2021-10-16T12:00:57.609755+03:00",
+    "MemberName": "София Самсонова",
+    "Distance": 1000
+  },
+  {
+    "Id": "95363892-602c-498c-8de5-b91736032606",
+    "RaceId": "1",
+    "MemberNumber": 136,
+    "EventType": 1,
+    "TimeStamp": "2021-10-16T12:00:57.609755+03:00",
+    "MemberName": "Матвей Жуков",
+    "Distance": 1000
+  },
+  {
+    "Id": "3795ce2b-a460-47a6-b3bc-85790b853d90",
+    "RaceId": "1",
+    "MemberNumber": 137,
+    "EventType": 1,
+    "TimeStamp": "2021-10-16T12:00:57.609755+03:00",
+    "MemberName": "Николай Абрамов",
+    "Distance": 1000
+  },
+  {
+    "Id": "7fb47568-dab3-4845-a9c3-51cc952b8ba1",
+    "RaceId": "1",
+    "MemberNumber": 138,
+    "EventType": 1,
+    "TimeStamp": "2021-10-16T12:00:57.609755+03:00",
+    "MemberName": "Анжела Михеева",
+    "Distance": 1000
+  },
+  {
+    "Id": "ff9788ba-deb2-4914-be82-0bc7daff8a2c",
+    "RaceId": "1",
+    "MemberNumber": 47,
+    "EventType": 1,
+    "TimeStamp": "2021-10-16T12:00:57.609755+03:00",
+    "MemberName": "Дарья Елисеева",
+    "Distance": 2000
+  },
+  {
+    "Id": "775dc9d6-31cc-4bc1-b24b-3eeb41c8be6b",
+    "RaceId": "1",
+    "MemberNumber": 139,
+    "EventType": 1,
+    "TimeStamp": "2021-10-16T12:00:57.609755+03:00",
+    "MemberName": "Герман Лыткин",
+    "Distance": 1000
+  },
+  {
+    "Id": "f7bed3fe-33dd-4f81-b93f-2275b0b54ad7",
+    "RaceId": "1",
+    "MemberNumber": 48,
+    "EventType": 1,
+    "TimeStamp": "2021-10-16T12:00:57.609755+03:00",
+    "MemberName": "Татьяна Соловьева",
+    "Distance": 2000
+  },
+  {
+    "Id": "3c547a94-c252-435b-aefe-f31f23865995",
+    "RaceId": "1",
+    "MemberNumber": 201,
+    "EventType": 1,
+    "TimeStamp": "2021-10-16T12:00:57.609755+03:00",
+    "MemberName": "Валентина Лукина",
+    "Distance": 1000
+  },
+  {
+    "Id": "bb8dab56-91fa-435e-8135-30732efd9c6f",
+    "RaceId": "1",
+    "MemberNumber": 23,
+    "EventType": 1,
+    "TimeStamp": "2021-10-16T12:00:57.609755+03:00",
+    "MemberName": "Артём Григорьев",
+    "Distance": 1000
+  },
+  {
+    "Id": "17bc6c98-2473-4247-9fde-ea0337481ac7",
+    "RaceId": "1",
+    "MemberNumber": 49,
+    "EventType": 1,
+    "TimeStamp": "2021-10-16T12:00:57.609755+03:00",
+    "MemberName": "Игорь Евсеев",
+    "Distance": 2000
+  },
+  {
+    "Id": "61223665-a48a-44d3-b4ed-0f1562e43200",
+    "RaceId": "1",
+    "MemberNumber": 22,
+    "EventType": 1,
+    "TimeStamp": "2021-10-16T12:00:57.609755+03:00",
+    "MemberName": "Аркадий Моисеев",
+    "Distance": 1000
+  },
+  {
+    "Id": "cb2ab2ff-caba-4337-9dc3-2d191f2a5a39",
+    "RaceId": "1",
+    "MemberNumber": 21,
+    "EventType": 1,
+    "TimeStamp": "2021-10-16T12:00:57.609755+03:00",
+    "MemberName": "Юрий Шашков",
+    "Distance": 1000
+  },
+  {
+    "Id": "99148e8d-6da7-44c6-b3e2-3f9f0bb60be2",
+    "RaceId": "1",
+    "MemberNumber": 6,
+    "EventType": 1,
+    "TimeStamp": "2021-10-16T12:00:57.609755+03:00",
+    "MemberName": "Лариса Коновалова",
+    "Distance": 1000
+  },
+  {
+    "Id": "0be8ffcc-4a4c-49ba-864b-5640f7003864",
+    "RaceId": "1",
+    "MemberNumber": 8,
+    "EventType": 1,
+    "TimeStamp": "2021-10-16T12:00:57.609755+03:00",
+    "MemberName": "Жанна Турова",
+    "Distance": 1000
+  },
+  {
+    "Id": "eff9cd94-8f06-4bdb-832f-d2704b5bbce3",
+    "RaceId": "1",
+    "MemberNumber": 9,
+    "EventType": 1,
+    "TimeStamp": "2021-10-16T12:00:57.609755+03:00",
+    "MemberName": "Артём Быков",
+    "Distance": 1000
+  },
+  {
+    "Id": "6de95edb-f1b3-4057-b48a-263262376e7d",
+    "RaceId": "1",
+    "MemberNumber": 10,
+    "EventType": 1,
+    "TimeStamp": "2021-10-16T12:00:57.609755+03:00",
+    "MemberName": "Степан Прохоров",
+    "Distance": 1000
+  },
+  {
+    "Id": "0b9551cb-ae42-4381-b4b0-e517623a008a",
+    "RaceId": "1",
+    "MemberNumber": 11,
+    "EventType": 1,
+    "TimeStamp": "2021-10-16T12:00:57.609755+03:00",
+    "MemberName": "Олег Селезнев",
+    "Distance": 1000
+  },
+  {
+    "Id": "f56bc971-eef0-42c6-9650-651e88eec6be",
+    "RaceId": "1",
+    "MemberNumber": 12,
+    "EventType": 1,
+    "TimeStamp": "2021-10-16T12:00:57.609755+03:00",
+    "MemberName": "Антон Попов",
+    "Distance": 1000
+  },
+  {
+    "Id": "10e2dc40-e156-4912-b100-87955c27d59e",
+    "RaceId": "1",
+    "MemberNumber": 13,
+    "EventType": 1,
+    "TimeStamp": "2021-10-16T12:00:57.609755+03:00",
+    "MemberName": "Лариса Копылова",
+    "Distance": 1000
+  },
+  {
+    "Id": "392f1fdc-8bdb-40fe-b379-485f1da518c0",
+    "RaceId": "1",
+    "MemberNumber": 15,
+    "EventType": 1,
+    "TimeStamp": "2021-10-16T12:00:57.609755+03:00",
+    "MemberName": "Клавдия Ершова",
+    "Distance": 1000
+  },
+  {
+    "Id": "45bf6ebf-ee79-49f3-b36d-2abeed6629d1",
+    "RaceId": "1",
+    "MemberNumber": 16,
+    "EventType": 1,
+    "TimeStamp": "2021-10-16T12:00:57.609755+03:00",
+    "MemberName": "Валентин Максимов",
+    "Distance": 1000
+  },
+  {
+    "Id": "019d1a2e-ee7f-4246-8ed0-1991fb60e1ef",
+    "RaceId": "1",
+    "MemberNumber": 17,
+    "EventType": 1,
+    "TimeStamp": "2021-10-16T12:00:57.609755+03:00",
+    "MemberName": "Евгения Носова",
+    "Distance": 1000
+  },
+  {
+    "Id": "4b2fe227-111a-456a-b912-e7ac861f2572",
+    "RaceId": "1",
+    "MemberNumber": 18,
+    "EventType": 1,
+    "TimeStamp": "2021-10-16T12:00:57.609755+03:00",
+    "MemberName": "Любовь Гаврилова",
+    "Distance": 1000
+  },
+  {
+    "Id": "de5f71d5-4156-4530-a3e6-cf6f1718a737",
+    "RaceId": "1",
+    "MemberNumber": 69,
+    "EventType": 2,
+    "TimeStamp": "2021-10-16T12:29:19.411294+03:00",
+    "MemberName": "Иван Казаков",
+    "Distance": 5000
+  },
+  {
+    "Id": "fcffcef8-a802-41ab-9c07-eae301bb6ace",
+    "RaceId": "1",
+    "MemberNumber": 38,
+    "EventType": 1,
+    "TimeStamp": "2021-10-16T12:00:57.609755+03:00",
+    "MemberName": "Ульяна Ковалева",
+    "Distance": 2000
+  },
+  {
+    "Id": "15386a02-73bb-456d-a10b-376947a3397d",
+    "RaceId": "1",
+    "MemberNumber": 19,
+    "EventType": 1,
+    "TimeStamp": "2021-10-16T12:00:57.609755+03:00",
+    "MemberName": "Владислав Марков",
+    "Distance": 1000
+  },
+  {
+    "Id": "3acce15d-9d1a-4a24-b029-88e2f46fba0a",
+    "RaceId": "1",
+    "MemberNumber": 20,
+    "EventType": 1,
+    "TimeStamp": "2021-10-16T12:00:57.609755+03:00",
+    "MemberName": "Мария Зиновьева",
+    "Distance": 1000
+  },
+  {
+    "Id": "d7b37957-3d1f-48e2-a397-20eebab784bf",
+    "RaceId": "1",
+    "MemberNumber": 39,
+    "EventType": 1,
+    "TimeStamp": "2021-10-16T12:00:57.609755+03:00",
+    "MemberName": "Фёдор Русаков",
+    "Distance": 2000
+  },
+  {
+    "Id": "6457be2e-eb26-4c61-aa19-cb194bd70aa7",
+    "RaceId": "1",
+    "MemberNumber": 202,
+    "EventType": 1,
+    "TimeStamp": "2021-10-16T12:00:57.609755+03:00",
+    "MemberName": "Михаил Носов",
+    "Distance": 1000
+  },
+  {
+    "Id": "3fd439e3-bfc2-4fc6-bca1-b86beea953f4",
+    "RaceId": "1",
+    "MemberNumber": 43,
+    "EventType": 1,
+    "TimeStamp": "2021-10-16T12:03:56.619046+03:00",
+    "MemberName": "Евгений Кулагин",
+    "Distance": 2000
+  },
+  {
+    "Id": "d03f0272-4437-40ef-8dbb-cce6656b53f1",
+    "RaceId": "1",
+    "MemberNumber": 102,
+    "EventType": 1,
+    "TimeStamp": "2021-10-16T12:03:56.619046+03:00",
+    "MemberName": "Валерий Щербаков",
+    "Distance": 10000
+  },
+  {
+    "Id": "5182ca89-16f4-4c00-85a2-3753f1e3c24b",
+    "RaceId": "1",
+    "MemberNumber": 109,
+    "EventType": 2,
+    "TimeStamp": "2021-10-16T12:20:18.974699+03:00",
+    "MemberName": "Ярослав Дьячков",
+    "Distance": 10000
+  },
+  {
+    "Id": "44ce50ba-b878-405e-8e58-f4328d25f716",
+    "RaceId": "1",
+    "MemberNumber": 104,
+    "EventType": 2,
+    "TimeStamp": "2021-10-16T12:20:27.3746+03:00",
+    "MemberName": "Григорий Молчанов",
+    "Distance": 10000
+  },
+  {
+    "Id": "091ab8d5-04d7-4912-b2c1-c54f595a24e7",
+    "RaceId": "1",
+    "MemberNumber": 116,
+    "EventType": 2,
+    "TimeStamp": "2021-10-16T12:20:34.473302+03:00",
+    "MemberName": "Валерий Зимин",
+    "Distance": 10000
+  },
+  {
+    "Id": "4b181f35-e378-4aac-8bb4-ed39205d0e60",
+    "RaceId": "1",
+    "MemberNumber": 7,
+    "EventType": 1,
+    "TimeStamp": "2021-10-16T12:03:56.619046+03:00",
+    "MemberName": "Альберт Комаров",
+    "Distance": 1000
+  },
+  {
+    "Id": "e87d7bbd-e9e4-4c74-a4d7-b208a03952b2",
+    "RaceId": "1",
+    "MemberNumber": 32,
+    "EventType": 1,
+    "TimeStamp": "2021-10-16T12:03:56.619046+03:00",
+    "MemberName": "Юрий Шестаков",
+    "Distance": 2000
+  },
+  {
+    "Id": "457765e8-02c7-4987-9648-b62bcd86e8b9",
+    "RaceId": "1",
+    "MemberNumber": 64,
+    "EventType": 2,
+    "TimeStamp": "2021-10-16T12:30:05.870489+03:00",
+    "MemberName": "Геннадий Крылов",
+    "Distance": 5000
+  },
+  {
+    "Id": "da0d44ee-2552-4eef-92cf-086e111943a9",
+    "RaceId": "1",
+    "MemberNumber": 64,
+    "EventType": 3,
+    "TimeStamp": "2021-10-16T12:30:06.040039+03:00",
+    "MemberName": "Геннадий Крылов",
+    "Distance": 5000
+  },
+  {
+    "Id": "81af9b31-9967-47a3-8e5e-b22970e9fc90",
+    "RaceId": "1",
+    "MemberNumber": 63,
+    "EventType": 2,
+    "TimeStamp": "2021-10-16T12:30:17.526286+03:00",
+    "MemberName": "Евгений Сидоров",
+    "Distance": 5000
+  },
+  {
+    "Id": "e170ade0-2ec8-4f8e-997c-585dc7c7914b",
+    "RaceId": "1",
+    "MemberNumber": 31,
+    "EventType": 1,
+    "TimeStamp": "2021-10-16T12:03:56.619046+03:00",
+    "MemberName": "Вероника Громова",
+    "Distance": 2000
+  },
+  {
+    "Id": "41a6efed-af3a-48b2-add5-b16975500fce",
+    "RaceId": "1",
+    "MemberNumber": 101,
+    "EventType": 1,
+    "TimeStamp": "2021-10-16T12:03:56.619046+03:00",
+    "MemberName": "Максим Лапин",
+    "Distance": 10000
+  },
+  {
+    "Id": "085c3272-40b0-46f2-a82f-32d3d11604ea",
+    "RaceId": "1",
+    "MemberNumber": 3,
+    "EventType": 1,
+    "TimeStamp": "2021-10-16T12:03:56.619046+03:00",
+    "MemberName": "Ольга Стрелкова",
+    "Distance": 1000
+  },
+  {
+    "Id": "84fdfba7-ca37-4812-aade-b8878d704529",
+    "RaceId": "1",
+    "MemberNumber": 107,
+    "EventType": 1,
+    "TimeStamp": "2021-10-16T12:03:56.619046+03:00",
+    "MemberName": "Роман Кондратьев",
+    "Distance": 10000
+  },
+  {
+    "Id": "6cfefff9-5c26-407f-a93a-313cd400c394",
+    "RaceId": "1",
+    "MemberNumber": 74,
+    "EventType": 2,
+    "TimeStamp": "2021-10-16T12:30:31.834807+03:00",
+    "MemberName": "Илья Осипов",
+    "Distance": 5000
+  },
+  {
+    "Id": "e780ea98-24f4-4d30-87da-60173efe1864",
+    "RaceId": "1",
+    "MemberNumber": 103,
+    "EventType": 1,
+    "TimeStamp": "2021-10-16T12:03:56.619046+03:00",
+    "MemberName": "Юрий Лаврентьев",
+    "Distance": 10000
+  },
+  {
+    "Id": "57ab32fc-039d-4cbc-9d54-983ce6a508da",
+    "RaceId": "1",
+    "MemberNumber": 4,
+    "EventType": 1,
+    "TimeStamp": "2021-10-16T12:03:56.619046+03:00",
+    "MemberName": "Фёдор Мишин",
+    "Distance": 1000
+  },
+  {
+    "Id": "d6826d6b-1f89-4e86-b665-2e267e5f9188",
+    "RaceId": "1",
+    "MemberNumber": 131,
+    "EventType": 1,
+    "TimeStamp": "2021-10-16T12:03:56.619046+03:00",
+    "MemberName": "Эдуард Савельев",
+    "Distance": 1000
+  },
+  {
+    "Id": "c81a192f-c7bb-4f29-b844-3e29ceebcbbd",
+    "RaceId": "1",
+    "MemberNumber": 44,
+    "EventType": 1,
+    "TimeStamp": "2021-10-16T12:03:56.619046+03:00",
+    "MemberName": "Нина Анисимова",
+    "Distance": 2000
+  },
+  {
+    "Id": "a9f2e741-ad2b-496f-b775-2acaf528fdf8",
+    "RaceId": "1",
+    "MemberNumber": 45,
+    "EventType": 1,
+    "TimeStamp": "2021-10-16T12:03:56.619046+03:00",
+    "MemberName": "Игнатий Комиссаров",
+    "Distance": 2000
+  },
+  {
+    "Id": "594f9032-1759-42aa-89e7-1803d7a1669d",
+    "RaceId": "1",
+    "MemberNumber": 46,
+    "EventType": 1,
+    "TimeStamp": "2021-10-16T12:03:56.619046+03:00",
+    "MemberName": "Денис Фомичев",
+    "Distance": 2000
+  },
+  {
+    "Id": "40b77baf-ebb3-4b2d-9566-7178fb4085fd",
+    "RaceId": "1",
+    "MemberNumber": 115,
+    "EventType": 1,
+    "TimeStamp": "2021-10-16T12:03:56.619046+03:00",
+    "MemberName": "Вячеслав Мамонтов",
+    "Distance": 10000
+  },
+  {
+    "Id": "d52443cc-b754-4f89-ac31-fbcd00a4d928",
+    "RaceId": "1",
+    "MemberNumber": 116,
+    "EventType": 1,
+    "TimeStamp": "2021-10-16T12:03:56.619046+03:00",
+    "MemberName": "Валерий Зимин",
+    "Distance": 10000
+  },
+  {
+    "Id": "a01687fe-dd01-41fb-a136-053ad63ea179",
+    "RaceId": "1",
+    "MemberNumber": 117,
+    "EventType": 1,
+    "TimeStamp": "2021-10-16T12:03:56.619046+03:00",
+    "MemberName": "Анфиса Веселова",
+    "Distance": 10000
+  },
+  {
+    "Id": "a773b048-9764-4753-b38e-2ad57b5a5bee",
+    "RaceId": "1",
+    "MemberNumber": 118,
+    "EventType": 1,
+    "TimeStamp": "2021-10-16T12:03:56.619046+03:00",
+    "MemberName": "Ульяна Ермакова",
+    "Distance": 10000
+  },
+  {
+    "Id": "df3f1e00-3dcd-4e6c-baca-e0c48a8e9ddb",
+    "RaceId": "1",
+    "MemberNumber": 75,
+    "EventType": 2,
+    "TimeStamp": "2021-10-16T12:31:14.571769+03:00",
+    "MemberName": "Василий Пестов",
+    "Distance": 5000
+  },
+  {
+    "Id": "03c97f9b-795b-432c-8acb-2164b1ee20b2",
+    "RaceId": "1",
+    "MemberNumber": 140,
+    "EventType": 1,
+    "TimeStamp": "2021-10-16T12:03:56.619046+03:00",
+    "MemberName": "Клавдия Воронцова",
+    "Distance": 1000
+  },
+  {
+    "Id": "140fe8d2-bd33-4f42-8be4-672c4e03a497",
+    "RaceId": "1",
+    "MemberNumber": 75,
+    "EventType": 3,
+    "TimeStamp": "2021-10-16T12:31:14.62358+03:00",
+    "MemberName": "Василий Пестов",
+    "Distance": 5000
+  },
+  {
+    "Id": "20d156b1-0e0d-44aa-8d87-841835f12217",
+    "RaceId": "1",
+    "MemberNumber": 28,
+    "EventType": 1,
+    "TimeStamp": "2021-10-16T12:03:56.619046+03:00",
+    "MemberName": "Жанна Комиссарова",
+    "Distance": 1000
+  },
+  {
+    "Id": "422184fd-374e-4e37-ab61-c393736799b8",
+    "RaceId": "1",
+    "MemberNumber": 77,
+    "EventType": 2,
+    "TimeStamp": "2021-10-16T12:31:30.308612+03:00",
+    "MemberName": "Антонида Шашкова",
+    "Distance": 5000
+  },
+  {
+    "Id": "6d7c68f3-90b1-41ce-b323-74e513947056",
+    "RaceId": "1",
+    "MemberNumber": 33,
+    "EventType": 1,
+    "TimeStamp": "2021-10-16T12:03:56.619046+03:00",
+    "MemberName": "Елизавета Боброва",
+    "Distance": 2000
+  },
+  {
+    "Id": "88e66aa4-6b00-4fbe-b372-b66ef648d678",
+    "RaceId": "1",
+    "MemberNumber": 105,
+    "EventType": 1,
+    "TimeStamp": "2021-10-16T12:03:56.619046+03:00",
+    "MemberName": "Антонина Шашкова",
+    "Distance": 10000
+  },
+  {
+    "Id": "04a97133-58aa-47ca-ac2d-e776149224f2",
+    "RaceId": "1",
+    "MemberNumber": 77,
+    "EventType": 3,
+    "TimeStamp": "2021-10-16T12:31:30.358271+03:00",
+    "MemberName": "Антонида Шашкова",
+    "Distance": 5000
+  },
+  {
+    "Id": "5237553c-944c-4022-888f-e3662e670d09",
+    "RaceId": "1",
+    "MemberNumber": 67,
+    "EventType": 2,
+    "TimeStamp": "2021-10-16T12:31:32.26136+03:00",
+    "MemberName": "Анфиса Орехова",
+    "Distance": 5000
+  },
+  {
+    "Id": "4ae07892-bfdc-462c-880c-6a39eaa6de1f",
+    "RaceId": "1",
+    "MemberNumber": 114,
+    "EventType": 1,
+    "TimeStamp": "2021-10-16T12:03:56.619046+03:00",
+    "MemberName": "Илья Евдокимов",
+    "Distance": 10000
+  },
+  {
+    "Id": "4758e24b-35d1-4829-aa4d-0f861867f902",
+    "RaceId": "1",
+    "MemberNumber": 78,
+    "EventType": 2,
+    "TimeStamp": "2021-10-16T12:31:46.234326+03:00",
+    "MemberName": "Лаврентий Красильников",
+    "Distance": 5000
+  },
+  {
+    "Id": "08a1e350-f542-45d4-b23b-9c2cad1f38d6",
+    "RaceId": "1",
+    "MemberNumber": 78,
+    "EventType": 3,
+    "TimeStamp": "2021-10-16T12:31:46.286167+03:00",
+    "MemberName": "Лаврентий Красильников",
+    "Distance": 5000
+  },
+  {
+    "Id": "75d74c60-143e-4315-8b6e-10952710239c",
+    "RaceId": "1",
+    "MemberNumber": 70,
+    "EventType": 2,
+    "TimeStamp": "2021-10-16T12:31:49.309514+03:00",
+    "MemberName": "Дмитрий Авдеев",
+    "Distance": 5000
+  },
+  {
+    "Id": "edaa3278-24d6-491d-a275-b7a87c5f6ea0",
+    "RaceId": "1",
+    "MemberNumber": 70,
+    "EventType": 3,
+    "TimeStamp": "2021-10-16T12:31:49.367255+03:00",
+    "MemberName": "Дмитрий Авдеев",
+    "Distance": 5000
+  },
+  {
+    "Id": "94fbb251-6561-4ffb-b9ae-00cdd8086f80",
+    "RaceId": "1",
+    "MemberNumber": 72,
+    "EventType": 2,
+    "TimeStamp": "2021-10-16T12:32:07.209704+03:00",
+    "MemberName": "Николай Блинов",
+    "Distance": 5000
+  },
+  {
+    "Id": "eb37e552-64f7-4270-b507-4518599bac89",
+    "RaceId": "1",
+    "MemberNumber": 112,
+    "EventType": 1,
+    "TimeStamp": "2021-10-16T12:03:56.619046+03:00",
+    "MemberName": "Ярослав Кононов",
+    "Distance": 10000
+  },
+  {
+    "Id": "f97adb8e-2344-498e-b546-a56dc62404fd",
+    "RaceId": "1",
+    "MemberNumber": 42,
+    "EventType": 1,
+    "TimeStamp": "2021-10-16T12:03:56.619046+03:00",
+    "MemberName": "Анатолий Ильин",
+    "Distance": 2000
+  },
+  {
+    "Id": "5260cb81-ff7c-4321-a784-76f6062e99cb",
+    "RaceId": "1",
+    "MemberNumber": 41,
+    "EventType": 1,
+    "TimeStamp": "2021-10-16T12:03:56.619046+03:00",
+    "MemberName": "Ангелина Бурова",
+    "Distance": 2000
+  },
+  {
+    "Id": "c71fe8c0-9783-4859-9b9b-f70c2407cb61",
+    "RaceId": "1",
+    "MemberNumber": 104,
+    "EventType": 1,
+    "TimeStamp": "2021-10-16T12:03:56.619046+03:00",
+    "MemberName": "Григорий Молчанов",
+    "Distance": 10000
+  },
+  {
+    "Id": "0911fa82-609b-4a46-a181-fbc7be74577b",
+    "RaceId": "1",
+    "MemberNumber": 111,
+    "EventType": 1,
+    "TimeStamp": "2021-10-16T12:03:56.619046+03:00",
+    "MemberName": "Игорь Кузьмин",
+    "Distance": 10000
+  },
+  {
+    "Id": "89df5055-4f16-4915-9c36-a93e1d4bb2a6",
+    "RaceId": "1",
+    "MemberNumber": 109,
+    "EventType": 1,
+    "TimeStamp": "2021-10-16T12:03:56.619046+03:00",
+    "MemberName": "Ярослав Дьячков",
+    "Distance": 10000
+  },
+  {
+    "Id": "189bfe42-9774-43e2-aaed-217b92b9182c",
+    "RaceId": "1",
+    "MemberNumber": 40,
+    "EventType": 1,
+    "TimeStamp": "2021-10-16T12:03:56.619046+03:00",
+    "MemberName": "Вера Матвеева",
+    "Distance": 2000
+  },
+  {
+    "Id": "f7990d73-0a25-4a69-b635-5e363cd6090d",
+    "RaceId": "1",
+    "MemberNumber": 37,
+    "EventType": 1,
+    "TimeStamp": "2021-10-16T12:03:56.619046+03:00",
+    "MemberName": "Альберт Логинов",
+    "Distance": 2000
+  },
+  {
+    "Id": "83306f86-8e3b-4abb-a809-d268c65e5c00",
+    "RaceId": "1",
+    "MemberNumber": 35,
+    "EventType": 1,
+    "TimeStamp": "2021-10-16T12:03:56.619046+03:00",
+    "MemberName": "Герман Зимин",
+    "Distance": 2000
+  },
+  {
+    "Id": "4e710eaa-3a01-424d-b4a8-aa4cc4fab150",
+    "RaceId": "1",
+    "MemberNumber": 36,
+    "EventType": 1,
+    "TimeStamp": "2021-10-16T12:03:56.619046+03:00",
+    "MemberName": "Илья Гришин",
+    "Distance": 2000
+  },
+  {
+    "Id": "9d37fe40-586d-455d-9e2f-0cdb8874b4b1",
+    "RaceId": "1",
+    "MemberNumber": 25,
+    "EventType": 1,
+    "TimeStamp": "2021-10-16T12:00:57.609755+03:00",
+    "MemberName": "Валентин Доронин",
+    "Distance": 1000
+  },
+  {
+    "Id": "fcde1de6-cf92-48f2-94ad-a292d32e4d9b",
+    "RaceId": "1",
+    "MemberNumber": 23,
+    "EventType": 3,
+    "TimeStamp": "2021-10-16T12:05:20.671523+03:00",
+    "MemberName": "Артём Григорьев",
+    "Distance": 1000
+  },
+  {
+    "Id": "0bd82e02-ed00-474a-b119-aef7603ec87c",
+    "RaceId": "1",
+    "MemberNumber": 15,
+    "EventType": 2,
+    "TimeStamp": "2021-10-16T12:05:24.539219+03:00",
+    "MemberName": "Клавдия Ершова",
+    "Distance": 1000
+  },
+  {
+    "Id": "e2521ae8-6735-4601-a034-0c512a938233",
+    "RaceId": "1",
+    "MemberNumber": 15,
+    "EventType": 3,
+    "TimeStamp": "2021-10-16T12:05:24.58977+03:00",
+    "MemberName": "Клавдия Ершова",
+    "Distance": 1000
+  },
+  {
+    "Id": "858c6033-3d48-4eac-bdd1-86c9c4f2dbc9",
+    "RaceId": "1",
+    "MemberNumber": 22,
+    "EventType": 2,
+    "TimeStamp": "2021-10-16T12:05:28.964711+03:00",
+    "MemberName": "Аркадий Моисеев",
+    "Distance": 1000
+  },
+  {
+    "Id": "c01d2168-3f51-434c-a529-99998767c02e",
+    "RaceId": "1",
+    "MemberNumber": 22,
+    "EventType": 3,
+    "TimeStamp": "2021-10-16T12:05:29.016179+03:00",
+    "MemberName": "Аркадий Моисеев",
+    "Distance": 1000
+  },
+  {
+    "Id": "a16688c2-bbf3-4a50-af97-46f1c7acfb54",
+    "RaceId": "1",
+    "MemberNumber": 13,
+    "EventType": 2,
+    "TimeStamp": "2021-10-16T12:05:49.698144+03:00",
+    "MemberName": "Лариса Копылова",
+    "Distance": 1000
+  },
+  {
+    "Id": "52ae29fa-6aa5-4672-a83f-75f06d0bfee6",
+    "RaceId": "1",
+    "MemberNumber": 13,
+    "EventType": 3,
+    "TimeStamp": "2021-10-16T12:05:49.748044+03:00",
+    "MemberName": "Лариса Копылова",
+    "Distance": 1000
+  },
+  {
+    "Id": "c7937e2b-325c-42ef-b16d-90289636a4a6",
+    "RaceId": "1",
+    "MemberNumber": 47,
+    "EventType": 2,
+    "TimeStamp": "2021-10-16T12:05:50.203101+03:00",
+    "MemberName": "Дарья Елисеева",
+    "Distance": 2000
+  },
+  {
+    "Id": "6f1d5645-2211-4ca1-83ed-38edea14dd40",
+    "RaceId": "1",
+    "MemberNumber": 138,
+    "EventType": 2,
+    "TimeStamp": "2021-10-16T12:06:53.372993+03:00",
+    "MemberName": "Анжела Михеева",
+    "Distance": 1000
+  },
+  {
+    "Id": "d834c3f2-b31b-421c-925b-f06cf121d166",
+    "RaceId": "1",
+    "MemberNumber": 138,
+    "EventType": 3,
+    "TimeStamp": "2021-10-16T12:06:53.424678+03:00",
+    "MemberName": "Анжела Михеева",
+    "Distance": 1000
+  },
+  {
+    "Id": "8b29477f-745b-452f-a184-ffc1ede74346",
+    "RaceId": "1",
+    "MemberNumber": 134,
+    "EventType": 2,
+    "TimeStamp": "2021-10-16T12:06:55.77308+03:00",
+    "MemberName": "Лидия Щукина",
+    "Distance": 1000
+  },
+  {
+    "Id": "409c02c6-64ad-49da-b0b1-7d8e6407d724",
+    "RaceId": "1",
+    "MemberNumber": 134,
+    "EventType": 3,
+    "TimeStamp": "2021-10-16T12:06:55.827083+03:00",
+    "MemberName": "Лидия Щукина",
+    "Distance": 1000
+  },
+  {
+    "Id": "6449b98a-766b-4480-bc32-9c55d10e2f15",
+    "RaceId": "1",
+    "MemberNumber": 19,
+    "EventType": 2,
+    "TimeStamp": "2021-10-16T12:07:01.134281+03:00",
+    "MemberName": "Владислав Марков",
+    "Distance": 1000
+  },
+  {
+    "Id": "f9017ca7-8d01-4d73-b3a5-5473042affe1",
+    "RaceId": "1",
+    "MemberNumber": 19,
+    "EventType": 3,
+    "TimeStamp": "2021-10-16T12:07:01.186387+03:00",
+    "MemberName": "Владислав Марков",
+    "Distance": 1000
+  },
+  {
+    "Id": "42b2e833-b47c-486a-9245-96851e63ee9e",
+    "RaceId": "1",
+    "MemberNumber": 20,
+    "EventType": 2,
+    "TimeStamp": "2021-10-16T12:07:02.484649+03:00",
+    "MemberName": "Мария Зиновьева",
+    "Distance": 1000
+  },
+  {
+    "Id": "5d6a7191-498b-4cc3-a0b2-832fa36367bc",
+    "RaceId": "1",
+    "MemberNumber": 20,
+    "EventType": 3,
+    "TimeStamp": "2021-10-16T12:07:02.540999+03:00",
+    "MemberName": "Мария Зиновьева",
+    "Distance": 1000
+  },
+  {
+    "Id": "a435183e-1d9a-4469-b4bc-bc33be48308e",
+    "RaceId": "1",
+    "MemberNumber": 16,
+    "EventType": 2,
+    "TimeStamp": "2021-10-16T12:07:04.816344+03:00",
+    "MemberName": "Валентин Максимов",
+    "Distance": 1000
+  },
+  {
+    "Id": "f0b0132f-636c-495f-b436-121e64011416",
+    "RaceId": "1",
+    "MemberNumber": 16,
+    "EventType": 3,
+    "TimeStamp": "2021-10-16T12:07:04.866427+03:00",
+    "MemberName": "Валентин Максимов",
+    "Distance": 1000
+  },
+  {
+    "Id": "cbcc6920-c3d9-4e87-bfac-3b18933e789e",
+    "RaceId": "1",
+    "MemberNumber": 10,
+    "EventType": 2,
+    "TimeStamp": "2021-10-16T12:07:08.765218+03:00",
+    "MemberName": "Степан Прохоров",
+    "Distance": 1000
+  },
+  {
+    "Id": "f8202319-cefd-427b-8aa9-5d8075a15e2b",
+    "RaceId": "1",
+    "MemberNumber": 10,
+    "EventType": 3,
+    "TimeStamp": "2021-10-16T12:07:08.816512+03:00",
+    "MemberName": "Степан Прохоров",
+    "Distance": 1000
+  },
+  {
+    "Id": "690be8b1-6f27-4750-854c-49a572e8f812",
+    "RaceId": "1",
+    "MemberNumber": 9,
+    "EventType": 2,
+    "TimeStamp": "2021-10-16T12:07:14.69522+03:00",
+    "MemberName": "Артём Быков",
+    "Distance": 1000
+  },
+  {
+    "Id": "6154e087-84c7-4f57-b4be-11414716ad19",
+    "RaceId": "1",
+    "MemberNumber": 9,
+    "EventType": 3,
+    "TimeStamp": "2021-10-16T12:07:14.745534+03:00",
+    "MemberName": "Артём Быков",
+    "Distance": 1000
+  },
+  {
+    "Id": "c6673db6-4060-46f0-84f1-59fc54c58f57",
+    "RaceId": "1",
+    "MemberNumber": 74,
+    "EventType": 2,
+    "TimeStamp": "2021-10-16T12:37:26.371807+03:00",
+    "MemberName": "Илья Осипов",
+    "Distance": 5000
+  },
+  {
+    "Id": "2449471f-6270-4989-8611-109b5bc5294a",
+    "RaceId": "1",
+    "MemberNumber": 21,
+    "EventType": 2,
+    "TimeStamp": "2021-10-16T12:07:32.685335+03:00",
+    "MemberName": "Юрий Шашков",
+    "Distance": 1000
+  },
+  {
+    "Id": "ef8dd7b4-ae64-46e7-ad2c-bf48c811daaf",
+    "RaceId": "1",
+    "MemberNumber": 21,
+    "EventType": 3,
+    "TimeStamp": "2021-10-16T12:07:32.738724+03:00",
+    "MemberName": "Юрий Шашков",
+    "Distance": 1000
+  },
+  {
+    "Id": "b3139df3-6b77-49f9-a03b-7c5339dc2dc9",
+    "RaceId": "1",
+    "MemberNumber": 11,
+    "EventType": 2,
+    "TimeStamp": "2021-10-16T12:07:38.253578+03:00",
+    "MemberName": "Олег Селезнев",
+    "Distance": 1000
+  },
+  {
+    "Id": "41afb143-c537-40b9-9f26-e426fe0292dc",
+    "RaceId": "1",
+    "MemberNumber": 11,
+    "EventType": 3,
+    "TimeStamp": "2021-10-16T12:07:38.304385+03:00",
+    "MemberName": "Олег Селезнев",
+    "Distance": 1000
+  },
+  {
+    "Id": "a635b4ae-1437-4239-bc34-5c95896928a7",
+    "RaceId": "1",
+    "MemberNumber": 139,
+    "EventType": 2,
+    "TimeStamp": "2021-10-16T12:07:44.004897+03:00",
+    "MemberName": "Герман Лыткин",
+    "Distance": 1000
+  },
+  {
+    "Id": "cc8af064-3fd5-45d2-b21e-a145b5425a55",
+    "RaceId": "1",
+    "MemberNumber": 139,
+    "EventType": 3,
+    "TimeStamp": "2021-10-16T12:07:44.058581+03:00",
+    "MemberName": "Герман Лыткин",
+    "Distance": 1000
+  },
+  {
+    "Id": "02487fef-510f-412b-b7e8-019ee77bcb1a",
+    "RaceId": "1",
+    "MemberNumber": 29,
+    "EventType": 2,
+    "TimeStamp": "2021-10-16T12:07:48.848313+03:00",
+    "MemberName": "Зоя Трофимова",
+    "Distance": 1000
+  },
+  {
+    "Id": "a85e88cc-762a-403c-9934-1a767086decd",
+    "RaceId": "1",
+    "MemberNumber": 29,
+    "EventType": 3,
+    "TimeStamp": "2021-10-16T12:07:48.898177+03:00",
+    "MemberName": "Зоя Трофимова",
+    "Distance": 1000
+  },
+  {
+    "Id": "d8d6c637-670a-483d-83d1-acc5a8c030ec",
+    "RaceId": "1",
+    "MemberNumber": 29,
+    "EventType": 3,
+    "TimeStamp": "2021-10-16T12:07:53.297489+03:00",
+    "MemberName": "Зоя Трофимова",
+    "Distance": 1000
+  },
+  {
+    "Id": "42ccb257-f764-45fd-bd83-f2f992951908",
+    "RaceId": "1",
+    "MemberNumber": 132,
+    "EventType": 2,
+    "TimeStamp": "2021-10-16T12:07:56.525382+03:00",
+    "MemberName": "Екатерина Хохлова",
+    "Distance": 1000
+  },
+  {
+    "Id": "314a43f8-54a3-4c71-9be1-b649961805d7",
+    "RaceId": "1",
+    "MemberNumber": 132,
+    "EventType": 3,
+    "TimeStamp": "2021-10-16T12:07:56.581054+03:00",
+    "MemberName": "Екатерина Хохлова",
+    "Distance": 1000
+  },
+  {
+    "Id": "0e2e6ea0-f66d-4c9f-b6d1-23cff8fc8d61",
+    "RaceId": "1",
+    "MemberNumber": 102,
+    "EventType": 2,
+    "TimeStamp": "2021-10-16T12:32:45.237193+03:00",
+    "MemberName": "Валерий Щербаков",
+    "Distance": 10000
+  },
+  {
+    "Id": "8499b231-9390-4782-a2b1-0cd1c76a9f3e",
+    "RaceId": "1",
+    "MemberNumber": 101,
+    "EventType": 2,
+    "TimeStamp": "2021-10-16T12:33:02.375838+03:00",
+    "MemberName": "Максим Лапин",
+    "Distance": 10000
+  },
+  {
+    "Id": "c53c3ee9-f71e-405f-ac9a-f8d7fff17b45",
+    "RaceId": "1",
+    "MemberNumber": 133,
+    "EventType": 2,
+    "TimeStamp": "2021-10-16T12:07:59.342739+03:00",
+    "MemberName": "Геннадий Панов",
+    "Distance": 1000
+  },
+  {
+    "Id": "823af8c6-5a3d-45fc-979a-067b5d52dddc",
+    "RaceId": "1",
+    "MemberNumber": 133,
+    "EventType": 3,
+    "TimeStamp": "2021-10-16T12:07:59.394857+03:00",
+    "MemberName": "Геннадий Панов",
+    "Distance": 1000
+  },
+  {
+    "Id": "cccc8510-1242-447d-92d4-6b2998504ca4",
+    "RaceId": "1",
+    "MemberNumber": 30,
+    "EventType": 2,
+    "TimeStamp": "2021-10-16T12:08:06.005859+03:00",
+    "MemberName": "Ксения Шашкова",
+    "Distance": 1000
+  },
+  {
+    "Id": "de57ce1b-9a07-41af-bd84-bc783bebf815",
+    "RaceId": "1",
+    "MemberNumber": 30,
+    "EventType": 3,
+    "TimeStamp": "2021-10-16T12:08:06.059339+03:00",
+    "MemberName": "Ксения Шашкова",
+    "Distance": 1000
+  },
+  {
+    "Id": "414bf8d0-e367-4ead-b4a6-012a1cee0815",
+    "RaceId": "1",
+    "MemberNumber": 25,
+    "EventType": 2,
+    "TimeStamp": "2021-10-16T12:08:12.027186+03:00",
+    "MemberName": "Валентин Доронин",
+    "Distance": 1000
+  },
+  {
+    "Id": "93a4545b-8966-4a97-b80d-f2c9f1f5f19e",
+    "RaceId": "1",
+    "MemberNumber": 25,
+    "EventType": 3,
+    "TimeStamp": "2021-10-16T12:08:12.076613+03:00",
+    "MemberName": "Валентин Доронин",
+    "Distance": 1000
+  },
+  {
+    "Id": "7c1d67b0-d296-44c6-b159-cf10a5556486",
+    "RaceId": "1",
+    "MemberNumber": 25,
+    "EventType": 3,
+    "TimeStamp": "2021-10-16T12:08:18.487155+03:00",
+    "MemberName": "Валентин Доронин",
+    "Distance": 1000
+  },
+  {
+    "Id": "4ea5cde4-ea33-4213-a1c9-89ff8be68757",
+    "RaceId": "1",
+    "MemberNumber": 38,
+    "EventType": 2,
+    "TimeStamp": "2021-10-16T12:08:23.739991+03:00",
+    "MemberName": "Ульяна Ковалева",
+    "Distance": 2000
+  },
+  {
+    "Id": "c44c0a3c-497d-4f1e-88db-4d1e8a909337",
+    "RaceId": "1",
+    "MemberNumber": 135,
+    "EventType": 2,
+    "TimeStamp": "2021-10-16T12:08:25.986513+03:00",
+    "MemberName": "София Самсонова",
+    "Distance": 1000
+  },
+  {
+    "Id": "94fb6cd9-f4c2-4fed-8f27-7f6285a759ba",
+    "RaceId": "1",
+    "MemberNumber": 135,
+    "EventType": 3,
+    "TimeStamp": "2021-10-16T12:08:26.042204+03:00",
+    "MemberName": "София Самсонова",
+    "Distance": 1000
+  },
+  {
+    "Id": "9cbf1baa-cb5c-4aa3-a499-7e4db72e8dea",
+    "RaceId": "1",
+    "MemberNumber": 27,
+    "EventType": 2,
+    "TimeStamp": "2021-10-16T12:08:29.264313+03:00",
+    "MemberName": "Ксения Котова",
+    "Distance": 1000
+  },
+  {
+    "Id": "cd8163d4-fd6e-4f55-9fab-f4a302c92f22",
+    "RaceId": "1",
+    "MemberNumber": 27,
+    "EventType": 3,
+    "TimeStamp": "2021-10-16T12:08:29.316641+03:00",
+    "MemberName": "Ксения Котова",
+    "Distance": 1000
+  },
+  {
+    "Id": "9ff51767-d795-495b-b912-e8459c82c05d",
+    "RaceId": "1",
+    "MemberNumber": 106,
+    "EventType": 2,
+    "TimeStamp": "2021-10-16T12:08:30.579259+03:00",
+    "MemberName": "Сергей Селезнев",
+    "Distance": 10000
+  },
+  {
+    "Id": "88e0fdf1-5e4f-4482-9bec-026c697e1439",
+    "RaceId": "1",
+    "MemberNumber": 39,
+    "EventType": 2,
+    "TimeStamp": "2021-10-16T12:08:31.969654+03:00",
+    "MemberName": "Фёдор Русаков",
+    "Distance": 2000
+  },
+  {
+    "Id": "ac840fdc-152d-4c94-812d-ba072d2265c9",
+    "RaceId": "1",
+    "MemberNumber": 48,
+    "EventType": 2,
+    "TimeStamp": "2021-10-16T12:08:39.186697+03:00",
+    "MemberName": "Татьяна Соловьева",
+    "Distance": 2000
+  },
+  {
+    "Id": "a757b8b4-d0dc-48f1-9ff2-a8a66059fd93",
+    "RaceId": "1",
+    "MemberNumber": 74,
+    "EventType": 3,
+    "TimeStamp": "2021-10-16T12:37:26.425796+03:00",
+    "MemberName": "Илья Осипов",
+    "Distance": 5000
+  },
+  {
+    "Id": "75474ace-45f2-4c08-9c3f-913fb4722f9b",
+    "RaceId": "1",
+    "MemberNumber": 107,
+    "EventType": 2,
+    "TimeStamp": "2021-10-16T12:08:40.847721+03:00",
+    "MemberName": "Роман Кондратьев",
+    "Distance": 10000
+  },
+  {
+    "Id": "3567b1f7-2e04-48dc-8b16-abd347d3690c",
+    "RaceId": "1",
+    "MemberNumber": 41,
+    "EventType": 2,
+    "TimeStamp": "2021-10-16T12:08:42.056092+03:00",
+    "MemberName": "Ангелина Бурова",
+    "Distance": 2000
+  },
+  {
+    "Id": "62021f73-89a2-4717-994c-a306003c2510",
+    "RaceId": "1",
+    "MemberNumber": 111,
+    "EventType": 2,
+    "TimeStamp": "2021-10-16T12:08:42.467165+03:00",
+    "MemberName": "Игорь Кузьмин",
+    "Distance": 10000
+  },
+  {
+    "Id": "5d204f36-d4b1-420a-a790-c72e71f99996",
+    "RaceId": "1",
+    "MemberNumber": 131,
+    "EventType": 2,
+    "TimeStamp": "2021-10-16T12:08:43.041515+03:00",
+    "MemberName": "Эдуард Савельев",
+    "Distance": 1000
+  },
+  {
+    "Id": "2539e89d-00a9-4e60-8a81-6440cd772beb",
+    "RaceId": "1",
+    "MemberNumber": 131,
+    "EventType": 3,
+    "TimeStamp": "2021-10-16T12:08:43.093166+03:00",
+    "MemberName": "Эдуард Савельев",
+    "Distance": 1000
+  },
+  {
+    "Id": "af57911a-2d50-4e28-ab2d-f3673480b778",
+    "RaceId": "1",
+    "MemberNumber": 131,
+    "EventType": 3,
+    "TimeStamp": "2021-10-16T12:08:45.312549+03:00",
+    "MemberName": "Эдуард Савельев",
+    "Distance": 1000
+  },
+  {
+    "Id": "2e2c73ce-8bf9-436b-9e6e-7aea56e5d81a",
+    "RaceId": "1",
+    "MemberNumber": 49,
+    "EventType": 2,
+    "TimeStamp": "2021-10-16T12:08:45.654883+03:00",
+    "MemberName": "Игорь Евсеев",
+    "Distance": 2000
+  },
+  {
+    "Id": "e8956a74-a827-49e5-a31b-1d0867619bb4",
+    "RaceId": "1",
+    "MemberNumber": 137,
+    "EventType": 2,
+    "TimeStamp": "2021-10-16T12:08:47.185873+03:00",
+    "MemberName": "Николай Абрамов",
+    "Distance": 1000
+  },
+  {
+    "Id": "d9c432a0-c4ba-4fb5-870e-30298580c12d",
+    "RaceId": "1",
+    "MemberNumber": 137,
+    "EventType": 3,
+    "TimeStamp": "2021-10-16T12:08:47.238871+03:00",
+    "MemberName": "Николай Абрамов",
+    "Distance": 1000
+  },
+  {
+    "Id": "24a84142-a15b-487a-8839-10a6e0639d41",
+    "RaceId": "1",
+    "MemberNumber": 140,
+    "EventType": 2,
+    "TimeStamp": "2021-10-16T12:09:02.451283+03:00",
+    "MemberName": "Клавдия Воронцова",
+    "Distance": 1000
+  },
+  {
+    "Id": "f72c041e-4a05-4ade-bc09-18c291189b33",
+    "RaceId": "1",
+    "MemberNumber": 140,
+    "EventType": 3,
+    "TimeStamp": "2021-10-16T12:09:02.501909+03:00",
+    "MemberName": "Клавдия Воронцова",
+    "Distance": 1000
+  },
+  {
+    "Id": "0ce454af-d9ff-4702-885b-3db1584aa195",
+    "RaceId": "1",
+    "MemberNumber": 45,
+    "EventType": 2,
+    "TimeStamp": "2021-10-16T12:09:07.675006+03:00",
+    "MemberName": "Игнатий Комиссаров",
+    "Distance": 2000
+  },
+  {
+    "Id": "e1b9e420-0883-4f60-87b4-0d3612f5b2a2",
+    "RaceId": "1",
+    "MemberNumber": 116,
+    "EventType": 2,
+    "TimeStamp": "2021-10-16T12:09:16.928081+03:00",
+    "MemberName": "Валерий Зимин",
+    "Distance": 10000
+  },
+  {
+    "Id": "7094d5a5-2c91-4f48-a5d1-7ce459cbf602",
+    "RaceId": "1",
+    "MemberNumber": 110,
+    "EventType": 2,
+    "TimeStamp": "2021-10-16T12:09:39.418868+03:00",
+    "MemberName": "Евгения Калинина",
+    "Distance": 10000
+  },
+  {
+    "Id": "f7bfe0d4-8d6b-4ea0-adfe-bf78de562439",
+    "RaceId": "1",
+    "MemberNumber": 115,
+    "EventType": 2,
+    "TimeStamp": "2021-10-16T12:09:42.727739+03:00",
+    "MemberName": "Вячеслав Мамонтов",
+    "Distance": 10000
+  },
+  {
+    "Id": "043c5b08-5d15-4356-aef7-1ca5a82896d4",
+    "RaceId": "1",
+    "MemberNumber": 112,
+    "EventType": 2,
+    "TimeStamp": "2021-10-16T12:09:49.908354+03:00",
+    "MemberName": "Ярослав Кононов",
+    "Distance": 10000
+  },
+  {
+    "Id": "278e892d-d21c-48ea-b7d8-35c32d69ee10",
+    "RaceId": "1",
+    "MemberNumber": 114,
+    "EventType": 2,
+    "TimeStamp": "2021-10-16T12:12:54.08338+03:00",
+    "MemberName": "Илья Евдокимов",
+    "Distance": 10000
+  },
+  {
+    "Id": "219e80f1-41b4-44d9-b300-726f6e9b85db",
+    "RaceId": "1",
+    "MemberNumber": 6,
+    "EventType": 2,
+    "TimeStamp": "2021-10-16T12:13:01.891123+03:00",
+    "MemberName": "Лариса Коновалова",
+    "Distance": 1000
+  },
+  {
+    "Id": "52c66478-1c81-4199-88c8-61ef0c8083f6",
+    "RaceId": "1",
+    "MemberNumber": 6,
+    "EventType": 3,
+    "TimeStamp": "2021-10-16T12:13:01.946335+03:00",
+    "MemberName": "Лариса Коновалова",
+    "Distance": 1000
+  },
+  {
+    "Id": "b9428a8f-1f17-4913-8311-64f35299b9fa",
+    "RaceId": "1",
+    "MemberNumber": 112,
+    "EventType": 2,
+    "TimeStamp": "2021-10-16T13:03:21.259631+03:00",
+    "MemberName": "Ярослав Кононов",
+    "Distance": 10000
+  },
+  {
+    "Id": "efb9500c-adb1-4111-b275-264e55b2beaf",
+    "RaceId": "1",
+    "MemberNumber": 101,
+    "EventType": 2,
+    "TimeStamp": "2021-10-16T12:13:14.986395+03:00",
+    "MemberName": "Максим Лапин",
+    "Distance": 10000
+  },
+  {
+    "Id": "89492511-58b8-4fe0-add3-4128df388b34",
+    "RaceId": "1",
+    "MemberNumber": 108,
+    "EventType": 2,
+    "TimeStamp": "2021-10-16T12:13:24.363764+03:00",
+    "MemberName": "Дмитрий Бирюков",
+    "Distance": 10000
+  },
+  {
+    "Id": "7f66cd12-0a07-4035-b34b-488eb68547bd",
+    "RaceId": "1",
+    "MemberNumber": 48,
+    "EventType": 2,
+    "TimeStamp": "2021-10-16T12:13:29.124781+03:00",
+    "MemberName": "Татьяна Соловьева",
+    "Distance": 2000
+  },
+  {
+    "Id": "0096d2aa-4762-491c-b89e-490e268c6f5d",
+    "RaceId": "1",
+    "MemberNumber": 48,
+    "EventType": 3,
+    "TimeStamp": "2021-10-16T12:13:29.176654+03:00",
+    "MemberName": "Татьяна Соловьева",
+    "Distance": 2000
+  },
+  {
+    "Id": "bcb1cc1d-0b18-406e-8466-a3b851505c09",
+    "RaceId": "1",
+    "MemberNumber": 107,
+    "EventType": 2,
+    "TimeStamp": "2021-10-16T12:13:31.363606+03:00",
+    "MemberName": "Роман Кондратьев",
+    "Distance": 10000
+  },
+  {
+    "Id": "00092e46-2bff-4644-b58a-9593d9cc5866",
+    "RaceId": "1",
+    "MemberNumber": 5,
+    "EventType": 1,
+    "TimeStamp": "2021-10-16T12:00:57.609755+03:00",
+    "MemberName": "Аркадий Мартынов",
+    "Distance": 1000
+  },
+  {
+    "Id": "39fc15c9-9ea8-404d-8796-4dc6133b1031",
+    "RaceId": "1",
+    "MemberNumber": 49,
+    "EventType": 2,
+    "TimeStamp": "2021-10-16T12:13:51.617482+03:00",
+    "MemberName": "Игорь Евсеев",
+    "Distance": 2000
+  },
+  {
+    "Id": "85ce9a08-e91d-4553-95dc-6fdd25deca93",
+    "RaceId": "1",
+    "MemberNumber": 49,
+    "EventType": 3,
+    "TimeStamp": "2021-10-16T12:13:51.669414+03:00",
+    "MemberName": "Игорь Евсеев",
+    "Distance": 2000
+  },
+  {
+    "Id": "671c30b5-c66c-4e6e-9ab0-d7f60860007e",
+    "RaceId": "1",
+    "MemberNumber": 103,
+    "EventType": 2,
+    "TimeStamp": "2021-10-16T12:14:21.635927+03:00",
+    "MemberName": "Юрий Лаврентьев",
+    "Distance": 10000
+  },
+  {
+    "Id": "b57df6ce-b345-453a-90d9-6c15f0e2e90f",
+    "RaceId": "1",
+    "MemberNumber": 39,
+    "EventType": 2,
+    "TimeStamp": "2021-10-16T12:14:25.774567+03:00",
+    "MemberName": "Фёдор Русаков",
+    "Distance": 2000
+  },
+  {
+    "Id": "f923b66f-4028-4f0b-b914-781526a614fc",
+    "RaceId": "1",
+    "MemberNumber": 39,
+    "EventType": 3,
+    "TimeStamp": "2021-10-16T12:14:25.825144+03:00",
+    "MemberName": "Фёдор Русаков",
+    "Distance": 2000
+  },
+  {
+    "Id": "883c5dff-5716-4ed4-9b6f-4fa5d4d182e6",
+    "RaceId": "1",
+    "MemberNumber": 45,
+    "EventType": 2,
+    "TimeStamp": "2021-10-16T12:14:35.613347+03:00",
+    "MemberName": "Игнатий Комиссаров",
+    "Distance": 2000
+  },
+  {
+    "Id": "b3ae0f11-b76f-478c-8557-4ff1b374f3ad",
+    "RaceId": "1",
+    "MemberNumber": 45,
+    "EventType": 3,
+    "TimeStamp": "2021-10-16T12:14:35.665441+03:00",
+    "MemberName": "Игнатий Комиссаров",
+    "Distance": 2000
+  },
+  {
+    "Id": "14186de7-719c-4170-baea-d30c302fb844",
+    "RaceId": "1",
+    "MemberNumber": 32,
+    "EventType": 2,
+    "TimeStamp": "2021-10-16T12:14:42.48574+03:00",
+    "MemberName": "Юрий Шестаков",
+    "Distance": 2000
+  },
+  {
+    "Id": "d4b3687e-6bef-4c20-84c1-deacfa79020c",
+    "RaceId": "1",
+    "MemberNumber": 32,
+    "EventType": 3,
+    "TimeStamp": "2021-10-16T12:14:42.538874+03:00",
+    "MemberName": "Юрий Шестаков",
+    "Distance": 2000
+  },
+  {
+    "Id": "76293440-42dd-412d-ad4e-0d9ac8b722c1",
+    "RaceId": "1",
+    "MemberNumber": 116,
+    "EventType": 2,
+    "TimeStamp": "2021-10-16T12:14:53.027411+03:00",
+    "MemberName": "Валерий Зимин",
+    "Distance": 10000
+  },
+  {
+    "Id": "98c49983-6572-45c4-a864-aedee0d8f9f2",
+    "RaceId": "1",
+    "MemberNumber": 109,
+    "EventType": 2,
+    "TimeStamp": "2021-10-16T12:14:57.874718+03:00",
+    "MemberName": "Ярослав Дьячков",
+    "Distance": 10000
+  },
+  {
+    "Id": "e442daa5-ff31-4913-b2df-e2417ee66c5f",
+    "RaceId": "1",
+    "MemberNumber": 115,
+    "EventType": 2,
+    "TimeStamp": "2021-10-16T12:15:18.594854+03:00",
+    "MemberName": "Вячеслав Мамонтов",
+    "Distance": 10000
+  },
+  {
+    "Id": "375a812a-413c-45fc-b992-93e9e3fe61f1",
+    "RaceId": "1",
+    "MemberNumber": 110,
+    "EventType": 2,
+    "TimeStamp": "2021-10-16T12:15:21.355506+03:00",
+    "MemberName": "Евгения Калинина",
+    "Distance": 10000
+  },
+  {
+    "Id": "36962d23-a060-437e-b6db-e459a34ac394",
+    "RaceId": "1",
+    "MemberNumber": 104,
+    "EventType": 2,
+    "TimeStamp": "2021-10-16T12:16:20.34552+03:00",
+    "MemberName": "Григорий Молчанов",
+    "Distance": 10000
+  },
+  {
+    "Id": "1ffdeb3b-c39c-42bc-a4e9-c2f826edda90",
+    "RaceId": "1",
+    "MemberNumber": 46,
+    "EventType": 2,
+    "TimeStamp": "2021-10-16T12:16:29.800493+03:00",
+    "MemberName": "Денис Фомичев",
+    "Distance": 2000
+  },
+  {
+    "Id": "bc16e334-cb3f-48f2-8cc7-95cc7f8efa63",
+    "RaceId": "1",
+    "MemberNumber": 46,
+    "EventType": 3,
+    "TimeStamp": "2021-10-16T12:16:29.850371+03:00",
+    "MemberName": "Денис Фомичев",
+    "Distance": 2000
+  },
+  {
+    "Id": "9f8fa849-0c82-4c2c-af2d-1b19cfb614cf",
+    "RaceId": "1",
+    "MemberNumber": 43,
+    "EventType": 2,
+    "TimeStamp": "2021-10-16T12:16:30.796722+03:00",
+    "MemberName": "Евгений Кулагин",
+    "Distance": 2000
+  },
+  {
+    "Id": "331d1520-8015-487d-a0d3-874697efe1bd",
+    "RaceId": "1",
+    "MemberNumber": 43,
+    "EventType": 3,
+    "TimeStamp": "2021-10-16T12:16:30.853053+03:00",
+    "MemberName": "Евгений Кулагин",
+    "Distance": 2000
+  },
+  {
+    "Id": "88b4a2af-cd70-496f-a28e-4c196f579bd9",
+    "RaceId": "1",
+    "MemberNumber": 112,
+    "EventType": 2,
+    "TimeStamp": "2021-10-16T12:16:39.793519+03:00",
+    "MemberName": "Ярослав Кононов",
+    "Distance": 10000
+  },
+  {
+    "Id": "3ae0d599-4811-486d-b2ed-122b415db875",
+    "RaceId": "1",
+    "MemberNumber": 118,
+    "EventType": 2,
+    "TimeStamp": "2021-10-16T12:17:11.633738+03:00",
+    "MemberName": "Ульяна Ермакова",
+    "Distance": 10000
+  },
+  {
+    "Id": "db96d86d-3ad4-4d83-8e2f-78a066f54e40",
+    "RaceId": "1",
+    "MemberNumber": 34,
+    "EventType": 2,
+    "TimeStamp": "2021-10-16T12:17:24.260439+03:00",
+    "MemberName": "Александра Фадеева",
+    "Distance": 2000
+  },
+  {
+    "Id": "e19c6046-1b2c-462a-8e93-dc32b703d21a",
+    "RaceId": "1",
+    "MemberNumber": 114,
+    "EventType": 2,
+    "TimeStamp": "2021-10-16T12:17:32.759096+03:00",
+    "MemberName": "Илья Евдокимов",
+    "Distance": 10000
+  },
+  {
+    "Id": "3a753c70-98c9-4e53-8dcd-6356489e03f0",
+    "RaceId": "1",
+    "MemberNumber": 106,
+    "EventType": 2,
+    "TimeStamp": "2021-10-16T12:17:35.914702+03:00",
+    "MemberName": "Сергей Селезнев",
+    "Distance": 10000
+  },
+  {
+    "Id": "648528ee-46b4-4052-a380-66186998f3a7",
+    "RaceId": "1",
+    "MemberNumber": 102,
+    "EventType": 2,
+    "TimeStamp": "2021-10-16T12:17:55.993589+03:00",
+    "MemberName": "Валерий Щербаков",
+    "Distance": 10000
+  },
+  {
+    "Id": "f1cac9a6-192b-4350-97e6-b97c32d8f445",
+    "RaceId": "1",
+    "MemberNumber": 107,
+    "EventType": 2,
+    "TimeStamp": "2021-10-16T12:18:42.154426+03:00",
+    "MemberName": "Роман Кондратьев",
+    "Distance": 10000
+  },
+  {
+    "Id": "10ca359a-e17c-484a-9e47-92c440590d4b",
+    "RaceId": "1",
+    "MemberNumber": 117,
+    "EventType": 2,
+    "TimeStamp": "2021-10-16T12:18:46.294634+03:00",
+    "MemberName": "Анфиса Веселова",
+    "Distance": 10000
+  },
+  {
+    "Id": "d72f3a25-a0ac-4766-81ed-55394b6aa1f7",
+    "RaceId": "1",
+    "MemberNumber": 105,
+    "EventType": 2,
+    "TimeStamp": "2021-10-16T12:19:02.036115+03:00",
+    "MemberName": "Антонина Шашкова",
+    "Distance": 10000
+  },
+  {
+    "Id": "d66e58fd-379b-410a-92ac-c27726c0084a",
+    "RaceId": "1",
+    "MemberNumber": 115,
+    "EventType": 2,
+    "TimeStamp": "2021-10-16T12:20:40.254317+03:00",
+    "MemberName": "Вячеслав Мамонтов",
+    "Distance": 10000
+  },
+  {
+    "Id": "e505f66a-4285-4b9c-bf45-591379c449b2",
+    "RaceId": "1",
+    "MemberNumber": 42,
+    "EventType": 2,
+    "TimeStamp": "2021-10-16T12:20:43.38306+03:00",
+    "MemberName": "Анатолий Ильин",
+    "Distance": 2000
+  },
+  {
+    "Id": "35022cea-ca60-46aa-8304-cc59121f2d40",
+    "RaceId": "1",
+    "MemberNumber": 110,
+    "EventType": 2,
+    "TimeStamp": "2021-10-16T12:21:21.354297+03:00",
+    "MemberName": "Евгения Калинина",
+    "Distance": 10000
+  },
+  {
+    "Id": "e8c6f60a-5583-4322-bbd6-b12380a82bc1",
+    "RaceId": "1",
+    "MemberNumber": 118,
+    "EventType": 2,
+    "TimeStamp": "2021-10-16T12:21:46.918353+03:00",
+    "MemberName": "Ульяна Ермакова",
+    "Distance": 10000
+  },
+  {
+    "Id": "13185bdc-2d95-4dc8-b043-aeb388156e07",
+    "RaceId": "1",
+    "MemberNumber": 114,
+    "EventType": 2,
+    "TimeStamp": "2021-10-16T12:22:05.939624+03:00",
+    "MemberName": "Илья Евдокимов",
+    "Distance": 10000
+  },
+  {
+    "Id": "d6b5eea3-bf23-4ee5-a126-259b0bedc7d7",
+    "RaceId": "1",
+    "MemberNumber": 106,
+    "EventType": 2,
+    "TimeStamp": "2021-10-16T12:22:09.99935+03:00",
+    "MemberName": "Сергей Селезнев",
+    "Distance": 10000
+  },
+  {
+    "Id": "a86bcb32-0dee-4bd0-92f8-ff9aa0236b7c",
+    "RaceId": "1",
+    "MemberNumber": 102,
+    "EventType": 2,
+    "TimeStamp": "2021-10-16T12:22:53.786118+03:00",
+    "MemberName": "Валерий Щербаков",
+    "Distance": 10000
+  },
+  {
+    "Id": "23699ba5-f7b2-4225-a6a3-8d06b6c1a0f0",
+    "RaceId": "1",
+    "MemberNumber": 101,
+    "EventType": 2,
+    "TimeStamp": "2021-10-16T12:23:13.870383+03:00",
+    "MemberName": "Максим Лапин",
+    "Distance": 10000
+  },
+  {
+    "Id": "0fb8f908-1145-4146-b214-6db4d9708dbb",
+    "RaceId": "1",
+    "MemberNumber": 117,
+    "EventType": 2,
+    "TimeStamp": "2021-10-16T12:23:23.041486+03:00",
+    "MemberName": "Анфиса Веселова",
+    "Distance": 10000
+  },
+  {
+    "Id": "83a1a14c-ca18-460c-ae66-c4a62659c03c",
+    "RaceId": "1",
+    "MemberNumber": 107,
+    "EventType": 2,
+    "TimeStamp": "2021-10-16T12:23:26.902394+03:00",
+    "MemberName": "Роман Кондратьев",
+    "Distance": 10000
+  },
+  {
+    "Id": "5dc7f328-6da3-4349-923e-0713d09d6479",
+    "RaceId": "1",
+    "MemberNumber": 111,
+    "EventType": 2,
+    "TimeStamp": "2021-10-16T12:23:28.830391+03:00",
+    "MemberName": "Игорь Кузьмин",
+    "Distance": 10000
+  },
+  {
+    "Id": "f6f14516-2feb-4601-9ea6-e69523682eb4",
+    "RaceId": "1",
+    "MemberNumber": 108,
+    "EventType": 2,
+    "TimeStamp": "2021-10-16T12:23:32.948471+03:00",
+    "MemberName": "Дмитрий Бирюков",
+    "Distance": 10000
+  },
+  {
+    "Id": "f94497a8-da59-424a-837a-571e36648b31",
+    "RaceId": "1",
+    "MemberNumber": 105,
+    "EventType": 2,
+    "TimeStamp": "2021-10-16T12:23:52.471309+03:00",
+    "MemberName": "Антонина Шашкова",
+    "Distance": 10000
+  },
+  {
+    "Id": "451d5010-b489-4386-b619-832834b00570",
+    "RaceId": "1",
+    "MemberNumber": 104,
+    "EventType": 2,
+    "TimeStamp": "2021-10-16T12:24:39.81609+03:00",
+    "MemberName": "Григорий Молчанов",
+    "Distance": 10000
+  },
+  {
+    "Id": "60482027-9761-420b-8515-4746e95d51de",
+    "RaceId": "1",
+    "MemberNumber": 112,
+    "EventType": 2,
+    "TimeStamp": "2021-10-16T12:24:48.57581+03:00",
+    "MemberName": "Ярослав Кононов",
+    "Distance": 10000
+  },
+  {
+    "Id": "2359b07c-ed9b-48e4-9569-2e2b691e0a3e",
+    "RaceId": "1",
+    "MemberNumber": 109,
+    "EventType": 2,
+    "TimeStamp": "2021-10-16T12:25:48.481286+03:00",
+    "MemberName": "Ярослав Дьячков",
+    "Distance": 10000
+  },
+  {
+    "Id": "492d1dbb-7551-450c-94d7-ccd40d15fb12",
+    "RaceId": "1",
+    "MemberNumber": 118,
+    "EventType": 2,
+    "TimeStamp": "2021-10-16T12:26:03.121239+03:00",
+    "MemberName": "Ульяна Ермакова",
+    "Distance": 10000
+  },
+  {
+    "Id": "816c180e-7cb3-4262-ba88-834155cb14dd",
+    "RaceId": "1",
+    "MemberNumber": 116,
+    "EventType": 2,
+    "TimeStamp": "2021-10-16T12:26:10.501983+03:00",
+    "MemberName": "Валерий Зимин",
+    "Distance": 10000
+  },
+  {
+    "Id": "0cdb39ca-6679-4876-a1d5-f8f50afbdbe6",
+    "RaceId": "1",
+    "MemberNumber": 115,
+    "EventType": 2,
+    "TimeStamp": "2021-10-16T12:26:17.024986+03:00",
+    "MemberName": "Вячеслав Мамонтов",
+    "Distance": 10000
+  },
+  {
+    "Id": "3509d074-1119-4b17-bcd3-0ccdf2487f8d",
+    "RaceId": "1",
+    "MemberNumber": 106,
+    "EventType": 2,
+    "TimeStamp": "2021-10-16T12:26:28.602848+03:00",
+    "MemberName": "Сергей Селезнев",
+    "Distance": 10000
+  },
+  {
+    "Id": "b95c4f01-10b9-489e-b999-c0899592d3ce",
+    "RaceId": "1",
+    "MemberNumber": 114,
+    "EventType": 2,
+    "TimeStamp": "2021-10-16T12:26:41.05548+03:00",
+    "MemberName": "Илья Евдокимов",
+    "Distance": 10000
+  },
+  {
+    "Id": "a0948078-afa6-4821-8a02-fbd2da1cec54",
+    "RaceId": "1",
+    "MemberNumber": 110,
+    "EventType": 2,
+    "TimeStamp": "2021-10-16T12:27:14.146622+03:00",
+    "MemberName": "Евгения Калинина",
+    "Distance": 10000
+  },
+  {
+    "Id": "8568ae56-12d0-4723-8aa7-9a280b5604a6",
+    "RaceId": "1",
+    "MemberNumber": 102,
+    "EventType": 2,
+    "TimeStamp": "2021-10-16T12:27:43.31838+03:00",
+    "MemberName": "Валерий Щербаков",
+    "Distance": 10000
+  },
+  {
+    "Id": "5d7a608f-0106-4760-bce0-47810d725a57",
+    "RaceId": "1",
+    "MemberNumber": 101,
+    "EventType": 2,
+    "TimeStamp": "2021-10-16T12:27:52.939772+03:00",
+    "MemberName": "Максим Лапин",
+    "Distance": 10000
+  },
+  {
+    "Id": "05e64a5a-2308-43ca-b8c6-0fec3b0d54ac",
+    "RaceId": "1",
+    "MemberNumber": 108,
+    "EventType": 2,
+    "TimeStamp": "2021-10-16T12:28:24.424344+03:00",
+    "MemberName": "Дмитрий Бирюков",
+    "Distance": 10000
+  },
+  {
+    "Id": "43a8627a-1ea2-4476-8cc9-326cf13aa459",
+    "RaceId": "1",
+    "MemberNumber": 107,
+    "EventType": 2,
+    "TimeStamp": "2021-10-16T12:28:30.180331+03:00",
+    "MemberName": "Роман Кондратьев",
+    "Distance": 10000
+  },
+  {
+    "Id": "3b723d74-6586-422b-a917-790681f0d925",
+    "RaceId": "1",
+    "MemberNumber": 111,
+    "EventType": 2,
+    "TimeStamp": "2021-10-16T12:28:31.68877+03:00",
+    "MemberName": "Игорь Кузьмин",
+    "Distance": 10000
+  },
+  {
+    "Id": "b8b10610-5ff4-4af8-90ab-3ae8a96f1d91",
+    "RaceId": "1",
+    "MemberNumber": 117,
+    "EventType": 2,
+    "TimeStamp": "2021-10-16T12:28:35.088488+03:00",
+    "MemberName": "Анфиса Веселова",
+    "Distance": 10000
+  },
+  {
+    "Id": "720b3215-ad1b-421f-9535-d846526f6f19",
+    "RaceId": "1",
+    "MemberNumber": 104,
+    "EventType": 2,
+    "TimeStamp": "2021-10-16T12:28:46.600179+03:00",
+    "MemberName": "Григорий Молчанов",
+    "Distance": 10000
+  },
+  {
+    "Id": "93ec6d72-cfb1-4bdb-be9c-f2b2545e6cee",
+    "RaceId": "1",
+    "MemberNumber": 105,
+    "EventType": 2,
+    "TimeStamp": "2021-10-16T12:29:06.021341+03:00",
+    "MemberName": "Антонина Шашкова",
+    "Distance": 10000
+  },
+  {
+    "Id": "f02d25f4-9d2d-4d37-ba7b-2419bdda107e",
+    "RaceId": "1",
+    "MemberNumber": 118,
+    "EventType": 2,
+    "TimeStamp": "2021-10-16T12:30:33.150708+03:00",
+    "MemberName": "Ульяна Ермакова",
+    "Distance": 10000
+  },
+  {
+    "Id": "311740aa-e7f4-4e0b-8533-7eb1dbc737fa",
+    "RaceId": "1",
+    "MemberNumber": 106,
+    "EventType": 2,
+    "TimeStamp": "2021-10-16T12:31:01.072426+03:00",
+    "MemberName": "Сергей Селезнев",
+    "Distance": 10000
+  },
+  {
+    "Id": "1c3c5bcf-eace-48c5-8c1a-2ad14f4d73fd",
+    "RaceId": "1",
+    "MemberNumber": 109,
+    "EventType": 2,
+    "TimeStamp": "2021-10-16T12:31:23.753591+03:00",
+    "MemberName": "Ярослав Дьячков",
+    "Distance": 10000
+  },
+  {
+    "Id": "13bb45b3-fc9d-4e8e-ace2-34beba04bd37",
+    "RaceId": "1",
+    "MemberNumber": 114,
+    "EventType": 2,
+    "TimeStamp": "2021-10-16T12:31:32.392875+03:00",
+    "MemberName": "Илья Евдокимов",
+    "Distance": 10000
+  },
+  {
+    "Id": "1279b870-c6c0-4613-8fd3-49757f76a97c",
+    "RaceId": "1",
+    "MemberNumber": 115,
+    "EventType": 2,
+    "TimeStamp": "2021-10-16T12:31:44.973859+03:00",
+    "MemberName": "Вячеслав Мамонтов",
+    "Distance": 10000
+  },
+  {
+    "Id": "99155950-bc89-413c-a640-e8b8777ad546",
+    "RaceId": "1",
+    "MemberNumber": 110,
+    "EventType": 2,
+    "TimeStamp": "2021-10-16T13:06:12.030983+03:00",
+    "MemberName": "Евгения Калинина",
+    "Distance": 10000
+  },
+  {
+    "Id": "71960250-71ca-4c92-a194-1340026a5408",
+    "RaceId": "1",
+    "MemberNumber": 116,
+    "EventType": 2,
+    "TimeStamp": "2021-10-16T12:31:52.354488+03:00",
+    "MemberName": "Валерий Зимин",
+    "Distance": 10000
+  },
+  {
+    "Id": "ecdc07c8-f0b0-4a8c-98f5-6ebcc0809ca4",
+    "RaceId": "1",
+    "MemberNumber": 112,
+    "EventType": 2,
+    "TimeStamp": "2021-10-16T12:32:06.5341+03:00",
+    "MemberName": "Ярослав Кононов",
+    "Distance": 10000
+  },
+  {
+    "Id": "fd4468ea-7354-49a7-8dc1-3d1afc4a23f0",
+    "RaceId": "1",
+    "MemberNumber": 110,
+    "EventType": 3,
+    "TimeStamp": "2021-10-16T13:06:12.089163+03:00",
+    "MemberName": "Евгения Калинина",
+    "Distance": 10000
+  },
+  {
+    "Id": "cb84d493-28fe-4609-a66b-76f9dd2ba9c5",
+    "RaceId": "1",
+    "MemberNumber": 102,
+    "EventType": 3,
+    "TimeStamp": "2021-10-16T13:04:15.185882+03:00",
+    "MemberName": "Валерий Щербаков",
+    "Distance": 10000
+  },
+  {
+    "Id": "ee734baf-bfd4-4eab-ad56-b37c72445f5a",
+    "RaceId": "1",
+    "MemberNumber": 112,
+    "EventType": 3,
+    "TimeStamp": "2021-10-16T13:18:13.419777+03:00",
+    "MemberName": "Ярослав Кононов",
+    "Distance": 10000
+  },
+  {
+    "Id": "4c0d129c-f379-412f-86fd-eedae850ae2e",
+    "RaceId": "1",
+    "MemberNumber": 102,
+    "EventType": 2,
+    "TimeStamp": "2021-10-16T12:52:10.672515+03:00",
+    "MemberName": "Валерий Щербаков",
+    "Distance": 10000
+  },
+  {
+    "Id": "ef2d3675-3e9f-411e-a06f-0133a00a248a",
+    "RaceId": "1",
+    "MemberNumber": 111,
+    "EventType": 2,
+    "TimeStamp": "2021-10-16T12:52:14.559815+03:00",
+    "MemberName": "Игорь Кузьмин",
+    "Distance": 10000
+  },
+  {
+    "Id": "47cfb89b-c3db-4e0a-b41f-f8ae29f9f357",
+    "RaceId": "1",
+    "MemberNumber": 107,
+    "EventType": 2,
+    "TimeStamp": "2021-10-16T12:33:34.829962+03:00",
+    "MemberName": "Роман Кондратьев",
+    "Distance": 10000
+  },
+  {
+    "Id": "7f0fc6b0-42c3-447e-ab31-2b5659e782eb",
+    "RaceId": "1",
+    "MemberNumber": 117,
+    "EventType": 2,
+    "TimeStamp": "2021-10-16T12:33:36.451284+03:00",
+    "MemberName": "Анфиса Веселова",
+    "Distance": 10000
+  },
+  {
+    "Id": "4921462a-ca47-4692-8ca3-76ece142944c",
+    "RaceId": "1",
+    "MemberNumber": 105,
+    "EventType": 2,
+    "TimeStamp": "2021-10-16T12:34:23.579681+03:00",
+    "MemberName": "Антонина Шашкова",
+    "Distance": 10000
+  },
+  {
+    "Id": "6dfdc96c-74f7-4555-9b72-55a5cf14d56c",
+    "RaceId": "1",
+    "MemberNumber": 104,
+    "EventType": 2,
+    "TimeStamp": "2021-10-16T12:33:00.488671+03:00",
+    "MemberName": "Григорий Молчанов",
+    "Distance": 10000
+  },
+  {
+    "Id": "e6e8af82-e80b-4b3f-accc-12f368e4923d",
+    "RaceId": "1",
+    "MemberNumber": 110,
+    "EventType": 2,
+    "TimeStamp": "2021-10-16T12:33:27.229669+03:00",
+    "MemberName": "Евгения Калинина",
+    "Distance": 10000
+  },
+  {
+    "Id": "13f7e8c7-53a7-4ce1-aae3-6106377d0c82",
+    "RaceId": "1",
+    "MemberNumber": 111,
+    "EventType": 2,
+    "TimeStamp": "2021-10-16T12:33:32.116953+03:00",
+    "MemberName": "Игорь Кузьмин",
+    "Distance": 10000
+  },
+  {
+    "Id": "64ef01a8-a511-446a-96ad-eccee048a2eb",
+    "RaceId": "1",
+    "MemberNumber": 108,
+    "EventType": 2,
+    "TimeStamp": "2021-10-16T12:33:38.789611+03:00",
+    "MemberName": "Дмитрий Бирюков",
+    "Distance": 10000
+  },
+  {
+    "Id": "bd86f2ae-8dfb-483f-aa77-50dd9b124882",
+    "RaceId": "1",
+    "MemberNumber": 118,
+    "EventType": 2,
+    "TimeStamp": "2021-10-16T12:35:13.991366+03:00",
+    "MemberName": "Ульяна Ермакова",
+    "Distance": 10000
+  },
+  {
+    "Id": "6f94a7a4-1045-4774-ae5e-d6d558c62fe9",
+    "RaceId": "1",
+    "MemberNumber": 106,
+    "EventType": 2,
+    "TimeStamp": "2021-10-16T12:35:46.352982+03:00",
+    "MemberName": "Сергей Селезнев",
+    "Distance": 10000
+  },
+  {
+    "Id": "1f2aeccc-1587-4ba6-a990-70c989de2708",
+    "RaceId": "1",
+    "MemberNumber": 114,
+    "EventType": 2,
+    "TimeStamp": "2021-10-16T12:36:07.813538+03:00",
+    "MemberName": "Илья Евдокимов",
+    "Distance": 10000
+  },
+  {
+    "Id": "63b8508f-15fb-48fc-bcd3-30ad83c1a611",
+    "RaceId": "1",
+    "MemberNumber": 109,
+    "EventType": 2,
+    "TimeStamp": "2021-10-16T12:36:45.014618+03:00",
+    "MemberName": "Ярослав Дьячков",
+    "Distance": 10000
+  },
+  {
+    "Id": "e79a35fb-2531-446b-99a8-2feee431fdb8",
+    "RaceId": "1",
+    "MemberNumber": 104,
+    "EventType": 2,
+    "TimeStamp": "2021-10-16T12:37:10.893288+03:00",
+    "MemberName": "Григорий Молчанов",
+    "Distance": 10000
+  },
+  {
+    "Id": "096e62a4-d5c0-4eb9-ab13-1ce3824b936d",
+    "RaceId": "1",
+    "MemberNumber": 102,
+    "EventType": 2,
+    "TimeStamp": "2021-10-16T12:37:41.014099+03:00",
+    "MemberName": "Валерий Щербаков",
+    "Distance": 10000
+  },
+  {
+    "Id": "0509a3fc-5f74-48be-9bd9-18bdd181260e",
+    "RaceId": "1",
+    "MemberNumber": 115,
+    "EventType": 2,
+    "TimeStamp": "2021-10-16T12:37:47.341858+03:00",
+    "MemberName": "Вячеслав Мамонтов",
+    "Distance": 10000
+  },
+  {
+    "Id": "42eb5bbd-5605-4f4b-8b97-dc8d6a26250e",
+    "RaceId": "1",
+    "MemberNumber": 116,
+    "EventType": 2,
+    "TimeStamp": "2021-10-16T12:37:49.320606+03:00",
+    "MemberName": "Валерий Зимин",
+    "Distance": 10000
+  },
+  {
+    "Id": "94d0e44d-c692-4c63-96d1-3f596edc85a5",
+    "RaceId": "1",
+    "MemberNumber": 101,
+    "EventType": 2,
+    "TimeStamp": "2021-10-16T12:38:10.862185+03:00",
+    "MemberName": "Максим Лапин",
+    "Distance": 10000
+  },
+  {
+    "Id": "13aa5ef4-0508-48b3-b1f3-58b575a5cf94",
+    "RaceId": "1",
+    "MemberNumber": 107,
+    "EventType": 2,
+    "TimeStamp": "2021-10-16T12:38:20.161923+03:00",
+    "MemberName": "Роман Кондратьев",
+    "Distance": 10000
+  },
+  {
+    "Id": "9db63bb2-9557-4c89-9ec3-d98d163c6da0",
+    "RaceId": "1",
+    "MemberNumber": 111,
+    "EventType": 2,
+    "TimeStamp": "2021-10-16T12:38:21.322227+03:00",
+    "MemberName": "Игорь Кузьмин",
+    "Distance": 10000
+  },
+  {
+    "Id": "aad5b414-cf47-4d7f-aa26-b6e769866dee",
+    "RaceId": "1",
+    "MemberNumber": 117,
+    "EventType": 2,
+    "TimeStamp": "2021-10-16T12:38:23.001804+03:00",
+    "MemberName": "Анфиса Веселова",
+    "Distance": 10000
+  },
+  {
+    "Id": "faa23ec7-f5be-4ca2-8e20-c7aa1e4b0670",
+    "RaceId": "1",
+    "MemberNumber": 108,
+    "EventType": 2,
+    "TimeStamp": "2021-10-16T12:38:28.745216+03:00",
+    "MemberName": "Дмитрий Бирюков",
+    "Distance": 10000
+  },
+  {
+    "Id": "4b0290a1-acbd-4f88-a61a-4b3400dc7051",
+    "RaceId": "1",
+    "MemberNumber": 67,
+    "EventType": 2,
+    "TimeStamp": "2021-10-16T12:38:50.409926+03:00",
+    "MemberName": "Анфиса Орехова",
+    "Distance": 5000
+  },
+  {
+    "Id": "0c98ebc7-fb43-4ca8-9020-f7a861f5a149",
+    "RaceId": "1",
+    "MemberNumber": 67,
+    "EventType": 3,
+    "TimeStamp": "2021-10-16T12:38:50.463005+03:00",
+    "MemberName": "Анфиса Орехова",
+    "Distance": 5000
+  },
+  {
+    "Id": "6ff6e35f-7a9e-4c47-a466-2e06abf37713",
+    "RaceId": "1",
+    "MemberNumber": 72,
+    "EventType": 2,
+    "TimeStamp": "2021-10-16T12:39:20.66174+03:00",
+    "MemberName": "Николай Блинов",
+    "Distance": 5000
+  },
+  {
+    "Id": "9b375689-da33-4294-824a-16c9a5a4171e",
+    "RaceId": "1",
+    "MemberNumber": 72,
+    "EventType": 3,
+    "TimeStamp": "2021-10-16T12:39:20.716848+03:00",
+    "MemberName": "Николай Блинов",
+    "Distance": 5000
+  },
+  {
+    "Id": "fd8689e1-f8ae-4f63-9f64-70bb32ff9365",
+    "RaceId": "1",
+    "MemberNumber": 118,
+    "EventType": 2,
+    "TimeStamp": "2021-10-16T12:39:39.893797+03:00",
+    "MemberName": "Ульяна Ермакова",
+    "Distance": 10000
+  },
+  {
+    "Id": "52f29dbd-14c0-43b6-b3c5-225ecc85b23b",
+    "RaceId": "1",
+    "MemberNumber": 105,
+    "EventType": 2,
+    "TimeStamp": "2021-10-16T12:39:45.660793+03:00",
+    "MemberName": "Антонина Шашкова",
+    "Distance": 10000
+  },
+  {
+    "Id": "756bc4c9-3002-450c-9154-bd52e9d2ef87",
+    "RaceId": "1",
+    "MemberNumber": 110,
+    "EventType": 2,
+    "TimeStamp": "2021-10-16T12:39:52.036416+03:00",
+    "MemberName": "Евгения Калинина",
+    "Distance": 10000
+  },
+  {
+    "Id": "431c4262-b857-4fdc-87c0-b0cba04e0dd1",
+    "RaceId": "1",
+    "MemberNumber": 112,
+    "EventType": 2,
+    "TimeStamp": "2021-10-16T12:40:12.048414+03:00",
+    "MemberName": "Ярослав Кононов",
+    "Distance": 10000
+  },
+  {
+    "Id": "fd76e3c8-e4bb-4ef5-b3bb-4b85041d9b86",
+    "RaceId": "1",
+    "MemberNumber": 106,
+    "EventType": 2,
+    "TimeStamp": "2021-10-16T12:40:17.990353+03:00",
+    "MemberName": "Сергей Селезнев",
+    "Distance": 10000
+  },
+  {
+    "Id": "6947ff3d-2503-484d-b508-cb713cec6c32",
+    "RaceId": "1",
+    "MemberNumber": 114,
+    "EventType": 2,
+    "TimeStamp": "2021-10-16T12:40:48.103906+03:00",
+    "MemberName": "Илья Евдокимов",
+    "Distance": 10000
+  },
+  {
+    "Id": "4d8b51aa-5c30-4065-a345-3b0f3fac5077",
+    "RaceId": "1",
+    "MemberNumber": 104,
+    "EventType": 2,
+    "TimeStamp": "2021-10-16T12:41:20.420687+03:00",
+    "MemberName": "Григорий Молчанов",
+    "Distance": 10000
+  },
+  {
+    "Id": "32bd614f-af3f-4e63-899c-1a666df03bbe",
+    "RaceId": "1",
+    "MemberNumber": 109,
+    "EventType": 2,
+    "TimeStamp": "2021-10-16T12:42:19.008697+03:00",
+    "MemberName": "Ярослав Дьячков",
+    "Distance": 10000
+  },
+  {
+    "Id": "17799f22-4d7d-4a04-ba50-ac4070c1fd53",
+    "RaceId": "1",
+    "MemberNumber": 102,
+    "EventType": 2,
+    "TimeStamp": "2021-10-16T12:42:49.612108+03:00",
+    "MemberName": "Валерий Щербаков",
+    "Distance": 10000
+  },
+  {
+    "Id": "bd9ca0cf-9e9a-4e08-8ac7-93754a599649",
+    "RaceId": "1",
+    "MemberNumber": 5,
+    "EventType": 2,
+    "TimeStamp": "2021-10-16T12:42:59.184737+03:00",
+    "MemberName": "Аркадий Мартынов",
+    "Distance": 1000
+  },
+  {
+    "Id": "5b77a22a-248a-4728-8569-5a7725ebbbbd",
+    "RaceId": "1",
+    "MemberNumber": 5,
+    "EventType": 3,
+    "TimeStamp": "2021-10-16T12:42:59.24248+03:00",
+    "MemberName": "Аркадий Мартынов",
+    "Distance": 1000
+  },
+  {
+    "Id": "1350ceb5-4abe-452a-82de-26b2e4638a89",
+    "RaceId": "1",
+    "MemberNumber": 12,
+    "EventType": 2,
+    "TimeStamp": "2021-10-16T12:43:00.115388+03:00",
+    "MemberName": "Антон Попов",
+    "Distance": 1000
+  },
+  {
+    "Id": "a4142393-dd7a-4b7b-8f82-50e9f5bc2274",
+    "RaceId": "1",
+    "MemberNumber": 12,
+    "EventType": 3,
+    "TimeStamp": "2021-10-16T12:43:00.173207+03:00",
+    "MemberName": "Антон Попов",
+    "Distance": 1000
+  },
+  {
+    "Id": "b669635a-3df7-4dae-ac9f-3a9224e01f8d",
+    "RaceId": "1",
+    "MemberNumber": 17,
+    "EventType": 2,
+    "TimeStamp": "2021-10-16T12:43:01.219605+03:00",
+    "MemberName": "Евгения Носова",
+    "Distance": 1000
+  },
+  {
+    "Id": "a49ef825-f6e6-4b55-b1d5-668866a89ae5",
+    "RaceId": "1",
+    "MemberNumber": 17,
+    "EventType": 3,
+    "TimeStamp": "2021-10-16T12:43:01.27977+03:00",
+    "MemberName": "Евгения Носова",
+    "Distance": 1000
+  },
+  {
+    "Id": "35600532-2ea6-4a88-896e-ac0ec0f07552",
+    "RaceId": "1",
+    "MemberNumber": 18,
+    "EventType": 2,
+    "TimeStamp": "2021-10-16T12:43:02.549086+03:00",
+    "MemberName": "Любовь Гаврилова",
+    "Distance": 1000
+  },
+  {
+    "Id": "543fc3d2-5301-4523-9814-103260e4f103",
+    "RaceId": "1",
+    "MemberNumber": 18,
+    "EventType": 3,
+    "TimeStamp": "2021-10-16T12:43:02.606186+03:00",
+    "MemberName": "Любовь Гаврилова",
+    "Distance": 1000
+  },
+  {
+    "Id": "1e32b9c2-9d1c-4155-90d4-c542daddc243",
+    "RaceId": "1",
+    "MemberNumber": 24,
+    "EventType": 2,
+    "TimeStamp": "2021-10-16T12:43:03.354403+03:00",
+    "MemberName": "Таисия Мухина",
+    "Distance": 1000
+  },
+  {
+    "Id": "9cfba6da-2140-42b8-8f1e-f3423eac909b",
+    "RaceId": "1",
+    "MemberNumber": 24,
+    "EventType": 3,
+    "TimeStamp": "2021-10-16T12:43:03.417004+03:00",
+    "MemberName": "Таисия Мухина",
+    "Distance": 1000
+  },
+  {
+    "Id": "0a89c4bc-1f0f-4a1e-991b-949435e61cd6",
+    "RaceId": "1",
+    "MemberNumber": 26,
+    "EventType": 2,
+    "TimeStamp": "2021-10-16T12:43:04.654282+03:00",
+    "MemberName": "Василий Фомичев",
+    "Distance": 1000
+  },
+  {
+    "Id": "566f3fec-8f6d-45d0-9156-a13b0dc0a233",
+    "RaceId": "1",
+    "MemberNumber": 26,
+    "EventType": 3,
+    "TimeStamp": "2021-10-16T12:43:04.720069+03:00",
+    "MemberName": "Василий Фомичев",
+    "Distance": 1000
+  },
+  {
+    "Id": "9275a12f-1d50-42f8-afe3-d3dacd8ce1b4",
+    "RaceId": "1",
+    "MemberNumber": 201,
+    "EventType": 2,
+    "TimeStamp": "2021-10-16T12:43:05.969389+03:00",
+    "MemberName": "Валентина Лукина",
+    "Distance": 1000
+  },
+  {
+    "Id": "3e26abd6-fd72-4d00-8fc9-6c2f0060155b",
+    "RaceId": "1",
+    "MemberNumber": 201,
+    "EventType": 3,
+    "TimeStamp": "2021-10-16T12:43:06.027156+03:00",
+    "MemberName": "Валентина Лукина",
+    "Distance": 1000
+  },
+  {
+    "Id": "d052a078-4803-4b0e-8424-fa78b6d86287",
+    "RaceId": "1",
+    "MemberNumber": 202,
+    "EventType": 2,
+    "TimeStamp": "2021-10-16T12:43:06.904333+03:00",
+    "MemberName": "Михаил Носов",
+    "Distance": 1000
+  },
+  {
+    "Id": "2640e019-9a76-4fd0-b9bd-64656ca9a9db",
+    "RaceId": "1",
+    "MemberNumber": 202,
+    "EventType": 3,
+    "TimeStamp": "2021-10-16T12:43:06.961494+03:00",
+    "MemberName": "Михаил Носов",
+    "Distance": 1000
+  },
+  {
+    "Id": "351394f6-2021-40cb-9eae-736e23b09642",
+    "RaceId": "1",
+    "MemberNumber": 3,
+    "EventType": 2,
+    "TimeStamp": "2021-10-16T12:43:07.829822+03:00",
+    "MemberName": "Ольга Стрелкова",
+    "Distance": 1000
+  },
+  {
+    "Id": "b762bde2-40c5-4a5f-a8d6-9a0a7a151ae1",
+    "RaceId": "1",
+    "MemberNumber": 3,
+    "EventType": 3,
+    "TimeStamp": "2021-10-16T12:43:07.889625+03:00",
+    "MemberName": "Ольга Стрелкова",
+    "Distance": 1000
+  },
+  {
+    "Id": "e554722b-3f41-4f17-a1ea-db1cf32b0f31",
+    "RaceId": "1",
+    "MemberNumber": 4,
+    "EventType": 2,
+    "TimeStamp": "2021-10-16T12:43:08.799827+03:00",
+    "MemberName": "Фёдор Мишин",
+    "Distance": 1000
+  },
+  {
+    "Id": "b330dbc4-e25f-42cd-8122-b849caafb7be",
+    "RaceId": "1",
+    "MemberNumber": 4,
+    "EventType": 3,
+    "TimeStamp": "2021-10-16T12:43:08.857886+03:00",
+    "MemberName": "Фёдор Мишин",
+    "Distance": 1000
+  },
+  {
+    "Id": "8e7fe149-1bb5-4075-9438-1ec9f2c85c1e",
+    "RaceId": "1",
+    "MemberNumber": 7,
+    "EventType": 2,
+    "TimeStamp": "2021-10-16T12:43:09.473296+03:00",
+    "MemberName": "Альберт Комаров",
+    "Distance": 1000
+  },
+  {
+    "Id": "d476757d-f19a-4f54-b058-aac610aaf150",
+    "RaceId": "1",
+    "MemberNumber": 7,
+    "EventType": 3,
+    "TimeStamp": "2021-10-16T12:43:09.530556+03:00",
+    "MemberName": "Альберт Комаров",
+    "Distance": 1000
+  },
+  {
+    "Id": "86db11bb-2558-498d-9ead-6ddaeed36958",
+    "RaceId": "1",
+    "MemberNumber": 14,
+    "EventType": 2,
+    "TimeStamp": "2021-10-16T12:43:10.113723+03:00",
+    "MemberName": "Александр Белозеров",
+    "Distance": 1000
+  },
+  {
+    "Id": "8a23ce5b-e589-4998-8f06-8f379782b7dc",
+    "RaceId": "1",
+    "MemberNumber": 14,
+    "EventType": 3,
+    "TimeStamp": "2021-10-16T12:43:10.170286+03:00",
+    "MemberName": "Александр Белозеров",
+    "Distance": 1000
+  },
+  {
+    "Id": "e0813496-74a1-459c-bda8-158f801a40bc",
+    "RaceId": "1",
+    "MemberNumber": 80,
+    "EventType": 1,
+    "TimeStamp": "2021-10-16T12:03:56.619046+03:00",
+    "MemberName": "Татьяна Суворова",
+    "Distance": 5000
+  },
+  {
+    "Id": "bf86cce6-04e7-4372-b846-3720f66da370",
+    "RaceId": "1",
+    "MemberNumber": 69,
+    "EventType": 2,
+    "TimeStamp": "2021-10-16T12:07:24.964754+03:00",
+    "MemberName": "Иван Казаков",
+    "Distance": 5000
+  },
+  {
+    "Id": "5f00774b-1c1e-4688-b63a-525e179bfeb9",
+    "RaceId": "1",
+    "MemberNumber": 68,
+    "EventType": 2,
+    "TimeStamp": "2021-10-16T12:08:39.886693+03:00",
+    "MemberName": "Анатолий Савельев",
+    "Distance": 5000
+  },
+  {
+    "Id": "3717503b-c1bf-4d43-9051-ce0f9cfad375",
+    "RaceId": "1",
+    "MemberNumber": 66,
+    "EventType": 2,
+    "TimeStamp": "2021-10-16T12:08:42.058395+03:00",
+    "MemberName": "Ирина Аксенова",
+    "Distance": 5000
+  },
+  {
+    "Id": "8c5063dd-54ad-46cf-902a-77687e519cb0",
+    "RaceId": "1",
+    "MemberNumber": 76,
+    "EventType": 2,
+    "TimeStamp": "2021-10-16T12:08:48.657081+03:00",
+    "MemberName": "Жанна Кулакова",
+    "Distance": 5000
+  },
+  {
+    "Id": "448c2681-1a91-4749-b487-0a23bc931431",
+    "RaceId": "1",
+    "MemberNumber": 80,
+    "EventType": 2,
+    "TimeStamp": "2021-10-16T12:08:51.827508+03:00",
+    "MemberName": "Татьяна Суворова",
+    "Distance": 5000
+  },
+  {
+    "Id": "37879c56-ff1c-4f03-bcb9-e36e56fad20f",
+    "RaceId": "1",
+    "MemberNumber": 77,
+    "EventType": 2,
+    "TimeStamp": "2021-10-16T12:08:55.651686+03:00",
+    "MemberName": "Антонида Шашкова",
+    "Distance": 5000
+  },
+  {
+    "Id": "7098e141-0d03-4342-92ff-46229afaa5a8",
+    "RaceId": "1",
+    "MemberNumber": 70,
+    "EventType": 2,
+    "TimeStamp": "2021-10-16T12:09:21.603877+03:00",
+    "MemberName": "Дмитрий Авдеев",
+    "Distance": 5000
+  },
+  {
+    "Id": "2df5ebf2-96aa-4a92-99ce-3ba62b6b5006",
+    "RaceId": "1",
+    "MemberNumber": 75,
+    "EventType": 2,
+    "TimeStamp": "2021-10-16T12:09:28.537079+03:00",
+    "MemberName": "Василий Пестов",
+    "Distance": 5000
+  },
+  {
+    "Id": "6cdf46a1-b039-46aa-8b68-fb26019c684a",
+    "RaceId": "1",
+    "MemberNumber": 78,
+    "EventType": 2,
+    "TimeStamp": "2021-10-16T12:09:34.180342+03:00",
+    "MemberName": "Лаврентий Красильников",
+    "Distance": 5000
+  },
+  {
+    "Id": "6a954b3c-c09b-42b8-af27-54b09ca2dc13",
+    "RaceId": "1",
+    "MemberNumber": 64,
+    "EventType": 2,
+    "TimeStamp": "2021-10-16T12:09:36.413302+03:00",
+    "MemberName": "Геннадий Крылов",
+    "Distance": 5000
+  },
+  {
+    "Id": "6824b4df-44e6-420e-a9ea-b3df17668996",
+    "RaceId": "1",
+    "MemberNumber": 72,
+    "EventType": 2,
+    "TimeStamp": "2021-10-16T12:09:53.931216+03:00",
+    "MemberName": "Николай Блинов",
+    "Distance": 5000
+  },
+  {
+    "Id": "d1d6d33b-941a-46ec-9c55-00591655d845",
+    "RaceId": "1",
+    "MemberNumber": 74,
+    "EventType": 2,
+    "TimeStamp": "2021-10-16T12:10:04.539519+03:00",
+    "MemberName": "Илья Осипов",
+    "Distance": 5000
+  },
+  {
+    "Id": "202fddbe-46bd-411e-a93a-4064fdb84a18",
+    "RaceId": "1",
+    "MemberNumber": 63,
+    "EventType": 2,
+    "TimeStamp": "2021-10-16T12:10:10.474372+03:00",
+    "MemberName": "Евгений Сидоров",
+    "Distance": 5000
+  },
+  {
+    "Id": "6471c889-8ebd-42ac-ad09-6e942b453305",
+    "RaceId": "1",
+    "MemberNumber": 67,
+    "EventType": 2,
+    "TimeStamp": "2021-10-16T12:10:29.745003+03:00",
+    "MemberName": "Анфиса Орехова",
+    "Distance": 5000
+  },
+  {
+    "Id": "0f25e419-9f09-42a8-ad74-6b9eaa66cc45",
+    "RaceId": "1",
+    "MemberNumber": 73,
+    "EventType": 2,
+    "TimeStamp": "2021-10-16T12:10:31.788692+03:00",
+    "MemberName": "Леонид Белозеров",
+    "Distance": 5000
+  },
+  {
+    "Id": "1cb7591f-5182-4fc6-abaa-4b5266df8561",
+    "RaceId": "1",
+    "MemberNumber": 66,
+    "EventType": 2,
+    "TimeStamp": "2021-10-16T12:13:05.016547+03:00",
+    "MemberName": "Ирина Аксенова",
+    "Distance": 5000
+  },
+  {
+    "Id": "098cecc7-13cb-4d8a-acca-f2e6b9bd99b2",
+    "RaceId": "1",
+    "MemberNumber": 76,
+    "EventType": 2,
+    "TimeStamp": "2021-10-16T12:13:13.466453+03:00",
+    "MemberName": "Жанна Кулакова",
+    "Distance": 5000
+  },
+  {
+    "Id": "7e1f1e1a-903b-4f2e-8104-168fd3949647",
+    "RaceId": "1",
+    "MemberNumber": 80,
+    "EventType": 2,
+    "TimeStamp": "2021-10-16T12:13:22.958417+03:00",
+    "MemberName": "Татьяна Суворова",
+    "Distance": 5000
+  },
+  {
+    "Id": "1ae38510-e88b-4a8a-a8c8-f6a27772dc7c",
+    "RaceId": "1",
+    "MemberNumber": 69,
+    "EventType": 2,
+    "TimeStamp": "2021-10-16T12:13:24.108358+03:00",
+    "MemberName": "Иван Казаков",
+    "Distance": 5000
+  },
+  {
+    "Id": "628daded-e5cb-4beb-a764-2d2b6f291ffc",
+    "RaceId": "1",
+    "MemberNumber": 79,
+    "EventType": 2,
+    "TimeStamp": "2021-10-16T12:13:34.520306+03:00",
+    "MemberName": "Николай Веселов",
+    "Distance": 5000
+  },
+  {
+    "Id": "ccd4534e-a444-4f7e-897d-3581e1b7cb32",
+    "RaceId": "1",
+    "MemberNumber": 77,
+    "EventType": 2,
+    "TimeStamp": "2021-10-16T12:14:29.542476+03:00",
+    "MemberName": "Антонида Шашкова",
+    "Distance": 5000
+  },
+  {
+    "Id": "6e6b2068-f192-4ece-9e3b-aa9028512d48",
+    "RaceId": "1",
+    "MemberNumber": 71,
+    "EventType": 2,
+    "TimeStamp": "2021-10-16T12:14:42.268257+03:00",
+    "MemberName": "Анна Петрова",
+    "Distance": 5000
+  },
+  {
+    "Id": "79260006-1bf8-4b9d-adc0-03ddffce2888",
+    "RaceId": "1",
+    "MemberNumber": 64,
+    "EventType": 2,
+    "TimeStamp": "2021-10-16T12:14:51.117745+03:00",
+    "MemberName": "Геннадий Крылов",
+    "Distance": 5000
+  },
+  {
+    "Id": "997a5199-a0df-4590-9844-e44cd2942891",
+    "RaceId": "1",
+    "MemberNumber": 70,
+    "EventType": 2,
+    "TimeStamp": "2021-10-16T12:14:52.043277+03:00",
+    "MemberName": "Дмитрий Авдеев",
+    "Distance": 5000
+  },
+  {
+    "Id": "b563da14-a721-481f-8357-600c3d564859",
+    "RaceId": "1",
+    "MemberNumber": 75,
+    "EventType": 2,
+    "TimeStamp": "2021-10-16T12:14:55.394841+03:00",
+    "MemberName": "Василий Пестов",
+    "Distance": 5000
+  },
+  {
+    "Id": "0093e037-8aa9-4b6b-851b-a730e9378d01",
+    "RaceId": "1",
+    "MemberNumber": 78,
+    "EventType": 2,
+    "TimeStamp": "2021-10-16T12:15:03.948135+03:00",
+    "MemberName": "Лаврентий Красильников",
+    "Distance": 5000
+  },
+  {
+    "Id": "38418017-3c1d-4e24-a56c-0c03fc40f482",
+    "RaceId": "1",
+    "MemberNumber": 74,
+    "EventType": 2,
+    "TimeStamp": "2021-10-16T12:16:43.151577+03:00",
+    "MemberName": "Илья Осипов",
+    "Distance": 5000
+  },
+  {
+    "Id": "6744e6f5-ab8a-49dd-965a-85b25563cbf6",
+    "RaceId": "1",
+    "MemberNumber": 63,
+    "EventType": 2,
+    "TimeStamp": "2021-10-16T12:16:48.768229+03:00",
+    "MemberName": "Евгений Сидоров",
+    "Distance": 5000
+  },
+  {
+    "Id": "66b16d6b-ac0e-460f-a36e-72da146c3bfb",
+    "RaceId": "1",
+    "MemberNumber": 72,
+    "EventType": 2,
+    "TimeStamp": "2021-10-16T12:17:13.603764+03:00",
+    "MemberName": "Николай Блинов",
+    "Distance": 5000
+  },
+  {
+    "Id": "1804d8a5-99f1-44eb-8090-87f94b88f2bb",
+    "RaceId": "1",
+    "MemberNumber": 67,
+    "EventType": 2,
+    "TimeStamp": "2021-10-16T12:17:15.140313+03:00",
+    "MemberName": "Анфиса Орехова",
+    "Distance": 5000
+  },
+  {
+    "Id": "b4b1bcf7-1f4e-4403-9313-02af96c3acc8",
+    "RaceId": "1",
+    "MemberNumber": 66,
+    "EventType": 2,
+    "TimeStamp": "2021-10-16T12:17:31.716951+03:00",
+    "MemberName": "Ирина Аксенова",
+    "Distance": 5000
+  },
+  {
+    "Id": "a963dda7-f931-4559-80bc-1814ebcf6b37",
+    "RaceId": "1",
+    "MemberNumber": 76,
+    "EventType": 2,
+    "TimeStamp": "2021-10-16T12:17:57.334521+03:00",
+    "MemberName": "Жанна Кулакова",
+    "Distance": 5000
+  },
+  {
+    "Id": "ad79d1ea-7628-4451-9283-243dfe03baff",
+    "RaceId": "1",
+    "MemberNumber": 79,
+    "EventType": 2,
+    "TimeStamp": "2021-10-16T12:18:19.198177+03:00",
+    "MemberName": "Николай Веселов",
+    "Distance": 5000
+  },
+  {
+    "Id": "e816c1d4-3d4a-4bff-b9fa-000347c75e40",
+    "RaceId": "1",
+    "MemberNumber": 80,
+    "EventType": 2,
+    "TimeStamp": "2021-10-16T12:18:25.156315+03:00",
+    "MemberName": "Татьяна Суворова",
+    "Distance": 5000
+  },
+  {
+    "Id": "89cee40a-9f98-4034-bec2-8fd0f3dde0d9",
+    "RaceId": "1",
+    "MemberNumber": 73,
+    "EventType": 2,
+    "TimeStamp": "2021-10-16T12:18:34.714586+03:00",
+    "MemberName": "Леонид Белозеров",
+    "Distance": 5000
+  },
+  {
+    "Id": "a51c0203-2f8c-4b96-9829-f384e62ed010",
+    "RaceId": "1",
+    "MemberNumber": 64,
+    "EventType": 2,
+    "TimeStamp": "2021-10-16T12:19:58.234485+03:00",
+    "MemberName": "Геннадий Крылов",
+    "Distance": 5000
+  },
+  {
+    "Id": "5edc4936-cb03-4cea-86ff-2485ea35a5a7",
+    "RaceId": "1",
+    "MemberNumber": 77,
+    "EventType": 2,
+    "TimeStamp": "2021-10-16T12:20:14.97162+03:00",
+    "MemberName": "Антонида Шашкова",
+    "Distance": 5000
+  },
+  {
+    "Id": "943435c3-7de1-485f-880e-575c19526faa",
+    "RaceId": "1",
+    "MemberNumber": 75,
+    "EventType": 2,
+    "TimeStamp": "2021-10-16T12:20:21.111014+03:00",
+    "MemberName": "Василий Пестов",
+    "Distance": 5000
+  },
+  {
+    "Id": "95d61514-939d-406b-acbf-e06e26eb401b",
+    "RaceId": "1",
+    "MemberNumber": 70,
+    "EventType": 2,
+    "TimeStamp": "2021-10-16T12:20:25.955864+03:00",
+    "MemberName": "Дмитрий Авдеев",
+    "Distance": 5000
+  },
+  {
+    "Id": "d1e6835e-9a30-4fa2-8dbf-86592e77fb52",
+    "RaceId": "1",
+    "MemberNumber": 78,
+    "EventType": 2,
+    "TimeStamp": "2021-10-16T12:20:46.803319+03:00",
+    "MemberName": "Лаврентий Красильников",
+    "Distance": 5000
+  },
+  {
+    "Id": "e7475385-1c52-4e33-951c-cc66207850f5",
+    "RaceId": "1",
+    "MemberNumber": 66,
+    "EventType": 2,
+    "TimeStamp": "2021-10-16T12:21:39.341114+03:00",
+    "MemberName": "Ирина Аксенова",
+    "Distance": 5000
+  },
+  {
+    "Id": "b68b96c1-9cae-4cb8-8170-6da704134f8d",
+    "RaceId": "1",
+    "MemberNumber": 68,
+    "EventType": 2,
+    "TimeStamp": "2021-10-16T12:21:49.652785+03:00",
+    "MemberName": "Анатолий Савельев",
+    "Distance": 5000
+  },
+  {
+    "Id": "fff32914-2144-4b02-9188-7852563e3040",
+    "RaceId": "1",
+    "MemberNumber": 76,
+    "EventType": 2,
+    "TimeStamp": "2021-10-16T12:23:07.151127+03:00",
+    "MemberName": "Жанна Кулакова",
+    "Distance": 5000
+  },
+  {
+    "Id": "c78963f0-7130-4080-9c57-cd74214e7a97",
+    "RaceId": "1",
+    "MemberNumber": 79,
+    "EventType": 2,
+    "TimeStamp": "2021-10-16T12:23:21.438457+03:00",
+    "MemberName": "Николай Веселов",
+    "Distance": 5000
+  },
+  {
+    "Id": "61a8b4f6-85ba-4104-b43e-1f082e4a92d6",
+    "RaceId": "1",
+    "MemberNumber": 80,
+    "EventType": 2,
+    "TimeStamp": "2021-10-16T12:23:23.877542+03:00",
+    "MemberName": "Татьяна Суворова",
+    "Distance": 5000
+  },
+  {
+    "Id": "bc11cb84-1b85-46c9-95cb-7471bec05aa9",
+    "RaceId": "1",
+    "MemberNumber": 63,
+    "EventType": 2,
+    "TimeStamp": "2021-10-16T12:23:33.034342+03:00",
+    "MemberName": "Евгений Сидоров",
+    "Distance": 5000
+  },
+  {
+    "Id": "2eb7aa28-7699-4913-bea8-e4492910720b",
+    "RaceId": "1",
+    "MemberNumber": 74,
+    "EventType": 2,
+    "TimeStamp": "2021-10-16T12:23:37.4031+03:00",
+    "MemberName": "Илья Осипов",
+    "Distance": 5000
+  },
+  {
+    "Id": "5ff33c60-c6d5-4461-8804-208361c306c2",
+    "RaceId": "1",
+    "MemberNumber": 67,
+    "EventType": 2,
+    "TimeStamp": "2021-10-16T12:24:16.111991+03:00",
+    "MemberName": "Анфиса Орехова",
+    "Distance": 5000
+  },
+  {
+    "Id": "4349e89b-e408-44f7-9a1a-5f4dacd92e17",
+    "RaceId": "1",
+    "MemberNumber": 72,
+    "EventType": 2,
+    "TimeStamp": "2021-10-16T12:24:38.409108+03:00",
+    "MemberName": "Николай Блинов",
+    "Distance": 5000
+  },
+  {
+    "Id": "30f8ad59-4671-4ff7-ab51-94ad602793e0",
+    "RaceId": "1",
+    "MemberNumber": 64,
+    "EventType": 2,
+    "TimeStamp": "2021-10-16T12:25:11.269755+03:00",
+    "MemberName": "Геннадий Крылов",
+    "Distance": 5000
+  },
+  {
+    "Id": "df4b7b54-9e83-452e-a1ad-2a42fa4e427d",
+    "RaceId": "1",
+    "MemberNumber": 75,
+    "EventType": 2,
+    "TimeStamp": "2021-10-16T12:25:47.337567+03:00",
+    "MemberName": "Василий Пестов",
+    "Distance": 5000
+  },
+  {
+    "Id": "2c337a0a-7c94-46f8-893d-52680543861a",
+    "RaceId": "1",
+    "MemberNumber": 66,
+    "EventType": 2,
+    "TimeStamp": "2021-10-16T12:25:50.254931+03:00",
+    "MemberName": "Ирина Аксенова",
+    "Distance": 5000
+  },
+  {
+    "Id": "8a7b91e9-22c8-4574-8413-950ffe37a700",
+    "RaceId": "1",
+    "MemberNumber": 66,
+    "EventType": 3,
+    "TimeStamp": "2021-10-16T12:25:50.313025+03:00",
+    "MemberName": "Ирина Аксенова",
+    "Distance": 5000
+  },
+  {
+    "Id": "adaad84e-feca-4a59-923a-2e28db92a23b",
+    "RaceId": "1",
+    "MemberNumber": 77,
+    "EventType": 2,
+    "TimeStamp": "2021-10-16T12:26:03.50534+03:00",
+    "MemberName": "Антонида Шашкова",
+    "Distance": 5000
+  },
+  {
+    "Id": "4711f627-22bf-4213-8953-b9035eb3fe1f",
+    "RaceId": "1",
+    "MemberNumber": 70,
+    "EventType": 2,
+    "TimeStamp": "2021-10-16T12:26:08.309691+03:00",
+    "MemberName": "Дмитрий Авдеев",
+    "Distance": 5000
+  },
+  {
+    "Id": "082b046c-1915-46f9-9860-af0dcf2bc4ba",
+    "RaceId": "1",
+    "MemberNumber": 78,
+    "EventType": 2,
+    "TimeStamp": "2021-10-16T12:26:19.460637+03:00",
+    "MemberName": "Лаврентий Красильников",
+    "Distance": 5000
+  },
+  {
+    "Id": "ec0c6e11-d838-42ca-b589-6771f1d9f94b",
+    "RaceId": "1",
+    "MemberNumber": 73,
+    "EventType": 2,
+    "TimeStamp": "2021-10-16T12:26:51.497879+03:00",
+    "MemberName": "Леонид Белозеров",
+    "Distance": 5000
+  },
+  {
+    "Id": "c41e598d-ccf5-4bdf-8a2d-84274539b9ed",
+    "RaceId": "1",
+    "MemberNumber": 71,
+    "EventType": 2,
+    "TimeStamp": "2021-10-16T12:28:17.902422+03:00",
+    "MemberName": "Анна Петрова",
+    "Distance": 5000
+  },
+  {
+    "Id": "866f1273-e000-4f00-8e41-897e7dc0ad5b",
+    "RaceId": "1",
+    "MemberNumber": 79,
+    "EventType": 2,
+    "TimeStamp": "2021-10-16T12:28:22.566251+03:00",
+    "MemberName": "Николай Веселов",
+    "Distance": 5000
+  },
+  {
+    "Id": "e72e152e-1472-4aa2-88a0-a5f9aecfca30",
+    "RaceId": "1",
+    "MemberNumber": 76,
+    "EventType": 2,
+    "TimeStamp": "2021-10-16T12:28:48.970967+03:00",
+    "MemberName": "Жанна Кулакова",
+    "Distance": 5000
+  },
+  {
+    "Id": "53bfab02-f6f8-4dd2-acdc-8b0b2bb624e6",
+    "RaceId": "1",
+    "MemberNumber": 76,
+    "EventType": 3,
+    "TimeStamp": "2021-10-16T12:28:49.018988+03:00",
+    "MemberName": "Жанна Кулакова",
+    "Distance": 5000
+  }
+]
