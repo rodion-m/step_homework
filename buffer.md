@@ -1,3 +1,5 @@
-Презентация LINQ: https://docs.google.com/presentation/d/12IoDyLvNI45pe2tn5XMscAiA8IM8fQ0AzMFu8mUt8v4/
+# Схема аудитории
+https://tinyurl.com/yf23xred
 
-События забега JSON: https://yadi.sk/d/L4KEyl0596BZtA
+# Инструкция по установке .NET 6 и Rider
+https://github.com/rodion-m/asp_course/blob/main/homework/0_preparation.md
