@@ -1,3 +1,6 @@
+# Курсовая
+https://docs.google.com/presentation/d/1QUUyhtOKEdE93Mx7wX7wyE_hGVRv5Mkewp3m1uV7yx8/edit?usp=sharing
+
 # Живая корзина
 https://superdupershop.azurewebsites.net/Basket
 
